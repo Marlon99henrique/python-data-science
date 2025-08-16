@@ -9,13 +9,26 @@ python-data-science/
 │   ├── funcoes_metodos.ipynb  
 │   └── tratamento_arquivos.py  
 │
-├── bibliotecas/            # Foco em libs para análise de dados.  
-│   ├── pandas_intro.ipynb  # Exemplo: Análise do dataset Iris.  
-│   ├── numpy_exemplos.py  
-│   └── visualizacao/       # Matplotlib/Seaborn.  
-│       ├── graficos_basicos.ipynb  
-│       └── customizacao.py  
+bibliotecas/
 │
+├── pandas/                  # Tudo sobre Pandas
+│   ├── introducao.ipynb     # Básico (DataFrames, filtros)
+│   ├── analise_exploratoria.ipynb  # EDA com dataset real
+│   └── casos_especiais/     # Merge, groupby, time series
+│       ├── combinando_dados.ipynb
+│       └── series_temporais.py
+│
+├── numpy/                   # Fundamentos numéricos
+│   ├── operacoes_basicas.py
+│   └── algebra_linear.ipynb
+│
+├── matplotlib/              # Visualização básica
+│   ├── graficos_comuns.ipynb
+│   └── formatacao.py
+│
+└── seaborn/                 # Visualização avançada
+    ├── heatmaps_boxplots.ipynb
+    └── customizacao_avancada.ipynb
 ├── pre_processamento/      # Limpeza e preparação de dados.  
 │   ├── handling_missing.py  
 │   ├── normalizacao.ipynb  
