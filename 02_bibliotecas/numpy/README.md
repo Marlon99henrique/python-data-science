@@ -1,77 +1,65 @@
-# 🧮 NumPy — Fundamentos Numéricos em Python
+# 🔢 NumPy — Computação Numérica para Ciência de Dados
 
-Este diretório reúne exemplos práticos de uso do NumPy, biblioteca fundamental para operações matemáticas e manipulação eficiente de arrays em Python. Os notebooks e scripts foram criados com o objetivo de demonstrar domínio das principais funcionalidades da biblioteca, aplicadas em contextos de análise numérica e suporte à ciência de dados.
-
----
-
-## 🧠 Conteúdo
-
-### [`introducao.ipynb`](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/introducao.ipynb)
-Fundamentos essenciais para trabalhar com arrays:
-
-- Criação de arrays com diferentes dimensões  
-- Indexação, slicing e atribuição de valores  
-- Tipos de dados (`dtype`) e conversões  
-
-### [`operacoes_basicas.py`](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/operacoes_basicas.py)
-Operações matemáticas e estatísticas:
-
-- Soma, média, desvio padrão, produto  
-- Operações element-wise e agregações  
-- Comparações e máscaras booleanas  
-
-### [`algebra_linear.ipynb`](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/algebra_linear.ipynb)
-Aplicações de álgebra linear com NumPy:
-
-- Produto escalar e multiplicação de matrizes  
-- Cálculo de determinantes e inversas  
-- Autovalores e autovetores  
+Esta pasta apresenta conteúdos organizados sobre a biblioteca NumPy, com foco em aplicações práticas para ciência de dados. Os exemplos aqui demonstram domínio técnico em manipulação de arrays, operações vetorizadas, álgebra linear e otimização de desempenho — habilidades essenciais para qualquer cientista de dados.
 
 ---
 
-## [`casos_especiais/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/casos_especias)
+## 📚 Conteúdo
 
-#### `broadcasting.ipynb`
-Exemplos de operações entre arrays de dimensões diferentes:
+### `introducao.ipynb`
+Fundamentos da biblioteca:
 
-- Regras de broadcasting  
-- Casos práticos com vetores e matrizes  
-- Comparação com métodos tradicionais  
+- Criação e manipulação de arrays  
+- Indexação, slicing e tipos de dados (`dtype`)  
+- Operações básicas com vetores e matrizes  
 
-#### `manipulacao_memoria.py`
-Eficiência na manipulação de arrays:
+### `operacoes_basicas.py`
+Aplicações matemáticas e estatísticas:
 
-- Diferença entre views e cópias  
-- Impacto na performance e uso de memória  
-- Estratégias para evitar redundância  
+- Soma, média, desvio padrão, agregações  
+- Operações elementares e funções universais (`ufuncs`)  
 
-#### `funcoes_avancadas.ipynb`
-Uso de funções universais e vetorização:
+### `algebra_linear.ipynb`
+Recursos de álgebra linear:
 
-- `ufuncs` e criação de funções customizadas  
-- Aplicação eficiente sobre grandes volumes de dados  
-- Comparação com loops tradicionais  
-
----
-
-## [`avancado/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/avancado)
-
-#### `performance_comparacao.ipynb`
-Benchmark entre NumPy e Python puro:
-
-- Diferença de tempo e memória entre loops e vetorização  
-- Casos práticos com listas e arrays  
-- Boas práticas para otimização numérica  
-
-#### `integracao_pandas.ipynb`
-Como o NumPy serve de base para o Pandas:
-
-- Conversão entre arrays e DataFrames  
-- Operações compartilhadas e interoperabilidade  
-- Casos em que o uso conjunto é vantajoso  
+- Produto escalar e multiplicação matricial  
+- Determinantes, inversas e autovalores  
+- Aplicações em modelagem e sistemas lineares  
 
 ---
 
-## 🎯 Objetivo desta seção
+## 🧩 Casos Especiais (`casos_especiais/`)
 
-Demonstrar domínio técnico em NumPy, evidenciando habilidades em operações vetorizadas, álgebra linear, manipulação de memória e integração com outras bibliotecas. Esta seção reforça minha capacidade de trabalhar com dados numéricos de forma eficiente e estruturada, contribuindo para análises robustas e pipelines de ciência de dados.
+Situações que exigem controle refinado e conhecimento avançado:
+
+- `broadcasting.ipynb` — Operações entre arrays de dimensões diferentes  
+- `manipulacao_memoria.py` — Views, cópias e eficiência computacional  
+- `funcoes_avancadas.ipynb` — Vetorização customizada e criação de `ufuncs`  
+
+---
+
+## 🚀 Avançado (`avancado/`)
+
+Tópicos que demonstram maturidade técnica e integração entre bibliotecas:
+
+- `performance_comparacao.ipynb` — NumPy vs Python puro (loops, listas)  
+- `integracao_pandas.ipynb` — Como NumPy serve de base para o Pandas  
+
+---
+
+## 🎯 Objetivo
+
+Demonstrar domínio técnico em computação numérica com NumPy, aplicando conceitos fundamentais e avançados em contextos reais de ciência de dados. Esta pasta reforça minha capacidade de escrever código eficiente, vetorizado e preparado para grandes volumes de dados.
+
+---
+
+## 🛠️ Requisitos
+
+- Python 3.8+  
+- NumPy 1.21+  
+- Jupyter Notebook
+
+Instale as dependências com:
+
+```bash
+pip install numpy jupyter
