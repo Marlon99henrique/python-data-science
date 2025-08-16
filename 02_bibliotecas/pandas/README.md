@@ -7,17 +7,28 @@ Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das
 
 # 📂 Estrutura do Projeto Pandas
 
-pandas/  
-│  
-├── 📓 introducao.ipynb              # Fundamentos essenciais  
-├── 🔍 analise_exploratoria.ipynb    # Análise Exploratória de Dados (EDA)  
-├── ⚙️ casos_especiais/  
-│&nbsp;&nbsp;├── 🔗 combinando_dados.ipynb    # Técnicas avançadas de combinação  
-│&nbsp;&nbsp;├── 🕒 series_temporais.py       # Manipulação profissional de datas  
-│&nbsp;&nbsp;└── 🧩 missing_values.ipynb      # Estratégias para dados incompletos  
-└── 🚀 avancado/  
-&nbsp;&nbsp;├── ⚡ performance_memoria.ipynb # Técnicas de otimização  
-&nbsp;&nbsp;└── 🧹 pipeline_limpeza.py       # Pipeline de limpeza production-ready  
+pandas/
+│
+├── 📓 introducao.ipynb
+│   └── Fundamentos essenciais do Pandas
+│
+├── 🔍 analise_exploratoria.ipynb
+│   └── Análise Exploratória de Dados (EDA)
+│
+├── ⚙️ casos_especiais/
+│   ├── 🔗 combinando_dados.ipynb
+│   │   └── Técnicas avançadas de combinação de datasets
+│   ├── 🕒 series_temporais.py
+│   │   └── Manipulação profissional de datas e séries temporais
+│   └── 🧩 missing_values.ipynb
+│       └── Estratégias para lidar com dados ausentes
+│
+└── 🚀 avancado/
+    ├── ⚡ performance_memoria.ipynb
+    │   └── Técnicas de otimização de uso de memória
+    └── 🧹 pipeline_limpeza.py
+        └── Pipeline de limpeza de dados para produção
+
   
 ---
 
