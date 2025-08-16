@@ -24,7 +24,6 @@ python-data-science/
 ├── projetos/ # Projetos completos  
 ├── boas_praticas/ # Documentação e testes  
 └── extras/ # SQL, APIs e otimização  
-## 🔍 Destaques
 
 ---
 
