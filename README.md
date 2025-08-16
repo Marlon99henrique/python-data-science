@@ -25,17 +25,26 @@ python-data-science/
 ├── boas_praticas/ # Documentação e testes  
 └── extras/ # SQL, APIs e otimização  
 ## 🔍 Destaques
-Projetos Práticos
-Análise de Vendas: EDA com gráficos e insights.
 
-Web Scraping: Coleta de dados de e-commerce.
+### 💼 Projetos Práticos
 
-Previsão de Preços: Modelo simples de regressão.
+- **Análise de Vendas**  
+  EDA com gráficos e insights de negócio.
 
-Bibliotecas-Chave
-Biblioteca	Aplicação	Exemplo no Repo
-Pandas	Manipulação de DataFrames	Pandas Intro
-Seaborn	Visualização	Gráficos Customizados
+- **Web Scraping**  
+  Coleta de dados de e-commerce com Python.
+
+- **Previsão de Preços**  
+  Modelo simples de regressão linear para estimativas.
+
+---
+
+## 📦 Bibliotecas-Chave
+
+| Biblioteca | Aplicação                   | Exemplo no Repositório         |
+|------------|-----------------------------|--------------------------------|
+| Pandas     | Manipulação de DataFrames   | `notebooks/pandas_intro.ipynb` |
+| Seaborn    | Visualização de dados       | `notebooks/graficos_customizados.ipynb` |
 ## 📚 Recursos Adicionais
 Datasets Recomendados (Kaggle, IBGE)
 
