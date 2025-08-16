@@ -22,7 +22,7 @@ Este repositório está organizado em pastas temáticas que cobrem desde os fund
 
 ### 📌 Descrição das Pastas
 
-- 📘 [**`fundamentos/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)  
+- 📘 [**fundamentos/**](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)  
   Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.
 
 - 🧰 [**`bibliotecas/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas)  
