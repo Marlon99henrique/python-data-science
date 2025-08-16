@@ -21,7 +21,7 @@ Repositório voltado para demonstrar habilidades práticas em Python aplicadas �
 ### 📌 Descrição das pastas
 python-data-science/
 
-- **[`fundamentos/`** → Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)
+- [**`fundamentos/`** → Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)
 - **[`bibliotecas/`** → Uso de bibliotecas como **Pandas**, **NumPy** e ferramentas de visualização.](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas)
 - **[`pre_processamento/`** → Técnicas para limpeza, normalização e transformação de dados.](https://github.com/Marlon99henrique/python-data-science/tree/main/03_pre_processamento)
 - **[`projetos/`** → Projetos completos aplicando todo o conhecimento do repositório.](https://github.com/Marlon99henrique/python-data-science/tree/main/04_projetos)
