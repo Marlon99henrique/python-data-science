@@ -41,7 +41,3 @@ Demonstrar domínio técnico em operações avançadas com NumPy, incluindo veto
 - Jupyter Notebook
 
 ---
-
-## 💡 Dica
-
-Se você já domina arrays e operações básicas, esta seção vai te ajudar a desbloquear o verdadeiro poder do NumPy em aplicações profissionais e científicas.
