@@ -40,6 +40,6 @@ Aplicações em datasets reais:
 
 Capacitar o usuário a dominar os recursos avançados do Seaborn, criando visualizações estatísticas sofisticadas e altamente personalizadas. Esta seção é ideal para quem deseja ir além dos gráficos padrão e comunicar insights com clareza e impacto visual.
 
----
+
 
 
