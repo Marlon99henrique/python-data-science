@@ -12,9 +12,9 @@ pandas/
 ├── introducao.ipynb              # Básico: DataFrames, filtros, tipos  
 ├── analise_exploratoria.ipynb    # EDA prática com dataset real  
 ├── casos_especiais/  
-│   ├── combinando_dados.ipynb    # Merge, concat, join  
-│   ├── series_temporais.py       # Trabalhando com datas e tempo  
-│   └── missing_values.ipynb      # Tratamento de dados faltantes  
+│       ├── combinando_dados.ipynb    # Merge, concat, join  
+│       ├── series_temporais.py       # Trabalhando com datas e tempo  
+│       └── missing_values.ipynb      # Tratamento de dados faltantes  
 └── avancado/  
     ├── performance_memoria.ipynb # Otimização, apply vs vectorization  
     └── pipeline_limpeza.py       # Exemplo de fluxo de limpeza  
