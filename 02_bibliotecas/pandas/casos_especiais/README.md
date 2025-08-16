@@ -43,7 +43,4 @@ Demonstrar domínio técnico em operações complexas com Pandas, aplicadas em c
 
 ---
 
-## 💡 Dica
-
-Se você já domina o uso básico de `DataFrame` e `Series`, esta seção é perfeita para aprofundar seu conhecimento e refinar suas habilidades em manipulação de dados.
 
