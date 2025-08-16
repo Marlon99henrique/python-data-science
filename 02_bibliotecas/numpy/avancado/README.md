@@ -1,4 +1,4 @@
-# 🏎️ Avançado — Otimização e Boas Práticas em Pandas e NumPy
+# 🏎️ Avançado — Otimização e Boas Práticas em Pandas
 
 Esta pasta reúne notebooks e scripts voltados para **técnicas avançadas de manipulação e processamento de dados**, com foco em **performance, vetorização, funções avançadas e integração entre bibliotecas**.  
 O objetivo é mostrar habilidades práticas que destacam conhecimento profissional para **Ciência de Dados**.
