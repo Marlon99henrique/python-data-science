@@ -18,12 +18,12 @@ Repositório voltado para demonstrar habilidades práticas em Python aplicadas �
 
 ## 🗂 Estrutura do Repositório  
 python-data-science/  
-├── fundamentos/ # Conceitos básicos e intermediários  
-├── bibliotecas/ # Pandas, NumPy, Visualização  
+├── fundamentos/       # Conceitos básicos e intermediários  
+├── bibliotecas/       # Pandas, NumPy, Visualização  
 ├── pre_processamento/ # Limpeza e transformação  
-├── projetos/ # Projetos completos  
-├── boas_praticas/ # Documentação e testes  
-└── extras/ # SQL, APIs e otimização  
+├── projetos/          # Projetos completos  
+├── boas_praticas/     # Documentação e testes  
+└── extras/            # SQL, APIs e otimização  
 
 ---
 
@@ -49,7 +49,10 @@ python-data-science/
 | Pandas     | Manipulação de DataFrames   | `notebooks/pandas_intro.ipynb` |
 | Seaborn    | Visualização de dados       | `notebooks/graficos_customizados.ipynb` |
 ## 📚 Recursos Adicionais
-- Datasets Recomendados (Kaggle, IBGE)  
-- Documentação Python  
-- Cheat Sheet Pandas
+
+- 🔗 [Kaggle Datasets](https://www.kaggle.com/datasets)  
+- 🔗 [IBGE - Dados Abertos](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html)  
+- 🔗 [Documentação Oficial do Python](https://docs.python.org/3/)  
+- 🔗 [Cheat Sheet Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 
