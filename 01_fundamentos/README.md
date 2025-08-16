@@ -24,20 +24,11 @@ Mostra como ler e escrever arquivos em Python:
 - Escrita e manipulação de dados em arquivos
 - Uso de `with open()` e boas práticas de I/O
 
----
-## 🛠️ Habilidades Demonstradas
-
-- Criação, indexação e filtragem de `Series` e `DataFrames`  
-- Limpeza e transformação de dados  
-- Uso de funções como `groupby`, `merge`, `concat` e `apply`  
-- Análise exploratória com estatísticas descritivas (`info`, `describe`, etc.)  
-- Manipulação de datas e séries temporais  
-- Boas práticas de performance e construção de pipelines de dados  
 
 ---
 ## 🎯 Objetivo
 
-Dominar os fundamentos do Python é essencial para qualquer profissional de dados. Esta pasta foi organizada para facilitar o aprendizado progressivo e servir como referência rápida para conceitos-chave.
+Dominar os fundamentos do Python é essencial para qualquer profissional de dados. Esta pasta demonstra conhecimentos práticos sobre estruturas nativas da linguagem, definição de funções e manipulação de arquivos, formando a base técnica necessária para tarefas mais avançadas em análise, engenharia e ciência de dados..
 
 ---
 
