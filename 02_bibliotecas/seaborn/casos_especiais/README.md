@@ -35,14 +35,3 @@ Demonstrar domínio técnico em visualizações estatísticas com Seaborn, aplic
 
 ---
 
-## 🛠️ Requisitos
-
-- Python 3.8+
-- Seaborn 0.11+
-- Pandas e Matplotlib
-
----
-
-## 💡 Dica
-
-Se você já domina os gráficos básicos com `sns.barplot()` e `sns.scatterplot()`, esta seção vai te ajudar a explorar o verdadeiro poder do Seaborn em análises estatísticas visuais.
