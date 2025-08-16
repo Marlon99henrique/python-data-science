@@ -1,63 +1,52 @@
 # 📊 Matplotlib — Visualização de Dados com Python
 
-Esta pasta apresenta exemplos práticos de uso do Matplotlib, biblioteca essencial para criação de gráficos e visualizações em Python. Os notebooks e scripts foram organizados para demonstrar domínio das principais funcionalidades da ferramenta, desde os conceitos básicos até aplicações avançadas e integração com outras bibliotecas.
+Esta pasta apresenta conteúdos organizados sobre a biblioteca Matplotlib, com foco em criação de gráficos estáticos, interativos e altamente personalizados. Os exemplos aqui demonstram como transformar dados em visualizações informativas, elegantes e adaptadas a contextos analíticos reais.
 
 ---
 
-## 🧠 Conteúdo
+## 📚 Conteúdo
 
 ### `introducao.ipynb`
-Conceitos fundamentais para criação de gráficos:
+Fundamentos da visualização com Matplotlib:
 
-- Gráficos de linha, dispersão, barras e histogramas  
-- Personalização de eixos, títulos, cores e estilos  
-- Uso de funções básicas como `plot()`, `scatter()`, `bar()`, `hist()`  
-
----
-
-### `casos_especiais/`
-
-#### `multiplos_subplots.ipynb`
-Criação de layouts complexos:
-
-- Uso de `subplots()` e `gridspec`  
-- Organização de múltiplos gráficos em uma única figura  
-- Ajustes de espaçamento e proporções  
-
-#### `anotacoes_legendas.ipynb`
-Elementos de destaque em visualizações:
-
-- Inserção de textos, setas e marcações  
-- Criação de legendas personalizadas  
-- Destaque de regiões específicas do gráfico  
-
-#### `graficos_interativos.ipynb`
-Interatividade básica com widgets:
-
-- Uso de `matplotlib.widgets` para sliders e botões  
-- Atualização dinâmica de gráficos  
-- Aplicações em dashboards simples  
+- Gráficos básicos: linha, barra, dispersão e histograma  
+- Configuração de títulos, eixos, cores e estilos  
+- Uso de `pyplot` e estrutura de figuras (`Figure`, `Axes`)  
 
 ---
 
-### `avancado/`
+## 🧩 Casos Especiais (`casos_especiais/`)
 
-#### `performance_exportacao.ipynb`
-Otimização e exportação de gráficos:
+Situações que exigem controle refinado e personalização visual:
 
-- Salvamento em formatos como PNG, SVG e PDF  
-- Ajuste de resolução e tamanho de imagem  
-- Boas práticas para exportação em projetos  
-
-#### `integracao_seaborn.ipynb`
-Integração com Seaborn:
-
-- Combinação de estilos e gráficos  
-- Uso de Seaborn para visualizações estatísticas com controle do Matplotlib  
-- Customização avançada com `Axes` e `Figure`  
+- `multiplos_subplots.ipynb` — Layouts complexos com `subplots()` e `gridspec`  
+- `anotacoes_legendas.ipynb` — Inserção de textos, setas e destaques visuais  
+- `graficos_interativos.ipynb` — Uso de widgets para interatividade básica  
 
 ---
 
-## 🎯 Objetivo desta seção
+## 🚀 Avançado (`avancado/`)
 
-Demonstrar proficiência na criação, personalização e exportação de gráficos com Matplotlib, evidenciando capacidade de transformar dados em visualizações claras, interativas e profissionais. Esta seção reforça minha habilidade em comunicar insights de forma visual, essencial em projetos de análise, relatórios e storytelling com dados.
+Tópicos que demonstram maturidade técnica e integração entre bibliotecas:
+
+- `performance_exportacao.ipynb` — Exportação otimizada para SVG, PDF e imagens  
+- `integracao_seaborn.ipynb` — Combinação de estilos e gráficos com Seaborn  
+
+---
+
+## 🎯 Objetivo
+
+Demonstrar domínio técnico em visualização de dados com Matplotlib, aplicando boas práticas de design gráfico, controle programático e integração com outras bibliotecas. Esta pasta reforça minha capacidade de comunicar insights de forma clara, visualmente impactante e adaptada ao público-alvo.
+
+---
+
+## 🛠️ Requisitos
+
+- Python 3.8+  
+- Matplotlib 3.5+  
+- Jupyter Notebook
+
+Instale as dependências com:
+
+```bash
+pip install matplotlib jupyter
