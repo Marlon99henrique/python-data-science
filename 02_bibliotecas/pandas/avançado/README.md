@@ -6,10 +6,10 @@ Esta pasta contém notebooks e scripts avançados de **pré-processamento e otim
 
 ## 📂 Estrutura da pasta
 
-- **performance_memoria.ipynb**  
+- [**performance_memoria.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/avan%C3%A7ado/performance_memoria.ipynb)  
   Demonstra técnicas de **otimização de memória** e eficiência computacional em DataFrames, comparando `apply` vs **vectorization** e mostrando boas práticas para trabalhar com grandes volumes de dados.
 
-- **pipeline_limpeza.py**  
+- [**pipeline_limpeza.py**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/avan%C3%A7ado/pipeline_limpeza.py)  
   Exemplo de **pipeline de pré-processamento** reutilizável, mostrando:
   - Estrutura profissional de funções
   - Tratamento de valores ausentes (missing values)
