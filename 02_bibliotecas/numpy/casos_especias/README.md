@@ -7,20 +7,20 @@ O foco está em demonstrar como aplicar operações matemáticas complexas, esta
 
 ## 📂 Conteúdo da pasta
 
-- **funcoes_avancadas.ipynb**  
+- [**funcoes_avancadas.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/casos_especias/funcoes_avancadas.ipynb)  
   Demonstração de funções avançadas do NumPy:  
   - Estatísticas (`mean`, `std`, `percentile`)  
   - Funções matemáticas (`exp`, `log`, `sqrt`, trigonometria)  
   - Técnicas de manipulação eficientes (`reshape`, `ravel`, `where`)  
   - Operações vetorizadas e aplicação de **broadcasting** entre arrays de diferentes formatos  
 
-- **broadcasting.ipynb**  
+- [**broadcasting.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/casos_especias/broadcasting.ipynb)  
   Exemplos detalhados de **broadcasting**:  
   - Aplicação de operações entre arrays de diferentes shapes  
   - Combinação de arrays sem loops explícitos  
   - Casos práticos em pré-processamento e cálculos matemáticos  
 
-- **manipulacao_memoria.ipynb**  
+- [**manipulacao_memoria.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/casos_especias/manipulacao_memoria.py) 
   Exemplos de otimização de memória e performance:  
   - Tipos de dados (`dtype`) e impacto na memória  
   - Diferença entre `copy` e `view`  
