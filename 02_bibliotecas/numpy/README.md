@@ -29,7 +29,7 @@ Aplicações de álgebra linear com NumPy:
 
 ---
 
-### [`casos_especiais/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/casos_especias)
+## [`casos_especiais/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/casos_especias)
 
 #### `broadcasting.ipynb`
 Exemplos de operações entre arrays de dimensões diferentes:
@@ -54,7 +54,7 @@ Uso de funções universais e vetorização:
 
 ---
 
-### [`avancado/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/avancado)
+## [`avancado/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/avancado)
 
 #### `performance_comparacao.ipynb`
 Benchmark entre NumPy e Python puro:
