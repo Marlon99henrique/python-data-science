@@ -28,9 +28,3 @@ O objetivo é mostrar habilidades práticas para **análises de grandes volumes 
 - Destacar **uso de operações vetorizadas e otimização de código**  
 - Servir como **diferencial em portfólio profissional** para vagas de Ciência de Dados  
 
----
-
-## ⚡ Observações
-
-- Todos os notebooks são comentados e estruturados para **facilitar leitura e entendimento**  
-
