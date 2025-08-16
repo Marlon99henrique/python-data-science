@@ -1,6 +1,6 @@
 # 📊 Matplotlib — Visualização de Dados com Python
 
-Este diretório apresenta exemplos práticos de uso do Matplotlib, biblioteca essencial para criação de gráficos e visualizações em Python. Os notebooks e scripts foram organizados para demonstrar domínio das principais funcionalidades da ferramenta, desde os conceitos básicos até aplicações avançadas e integração com outras bibliotecas.
+Esta pasta apresenta exemplos práticos de uso do Matplotlib, biblioteca essencial para criação de gráficos e visualizações em Python. Os notebooks e scripts foram organizados para demonstrar domínio das principais funcionalidades da ferramenta, desde os conceitos básicos até aplicações avançadas e integração com outras bibliotecas.
 
 ---
 
