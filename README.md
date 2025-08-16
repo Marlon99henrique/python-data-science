@@ -26,17 +26,23 @@ python-data-science/
 └── extras/ # SQL, APIs e otimização  
 ## 🔍 Destaques
 
+---
+
+### 4. **Destaques com Emojis Temáticos**
+Você pode adicionar emojis para reforçar visualmente os tópicos:
+
+## 🔍 Destaques
+
 ### 💼 Projetos Práticos
 
-- **Análise de Vendas**  
+- 📊 **Análise de Vendas**  
   EDA com gráficos e insights de negócio.
 
-- **Web Scraping**  
+- 🕸️ **Web Scraping**  
   Coleta de dados de e-commerce com Python.
 
-- **Previsão de Preços**  
+- 📈 **Previsão de Preços**  
   Modelo simples de regressão linear para estimativas.
-
 ---
 
 ## 📦 Bibliotecas-Chave
