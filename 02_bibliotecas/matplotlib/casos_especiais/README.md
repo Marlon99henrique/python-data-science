@@ -43,6 +43,4 @@ Demonstrar domínio técnico em visualizações complexas com Matplotlib, inclui
 
 ---
 
-## 💡 Dica
 
-Se você já domina os gráficos básicos com `plt.plot()`, esta seção vai te ajudar a transformar visualizações comuns em painéis informativos e visualmente impactantes.
