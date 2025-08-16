@@ -42,15 +42,4 @@ Capacitar o usuário a dominar os recursos avançados do Seaborn, criando visual
 
 ---
 
-## 🛠️ Requisitos
 
-- Python 3.8+
-- Seaborn 0.11+
-- Pandas e Matplotlib
-- Jupyter Notebook
-
----
-
-## 💡 Dica
-
-Combine os recursos desta seção com técnicas de análise estatística para criar relatórios visuais que realmente contam uma história.
