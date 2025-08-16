@@ -9,6 +9,9 @@ python-data-science/
 │   ├── funcoes_metodos.ipynb  
 │   └── tratamento_arquivos.py  
 │
+
+
+
 bibliotecas/
 │
 pandas/
@@ -23,14 +26,27 @@ pandas/
     ├── performance_memoria.ipynb # Otimização, apply vs vectorization
     └── pipeline_limpeza.py       # Exemplo de fluxo de limpeza
 
+
+numpy/                           # Fundamentos numéricos
 │
-├── numpy/                   # Fundamentos numéricos
-│   ├── operacoes_basicas.py
-│   └── algebra_linear.ipynb
+├── introducao.ipynb             # Arrays, indexação, slicing, dtypes
+├── operacoes_basicas.py         # Operações matemáticas e estatísticas
+├── algebra_linear.ipynb         # Produto escalar, matrizes, determinante, autovalores
+├── casos_especiais/
+│   ├── broadcasting.ipynb       # Operações entre arrays de dimensões diferentes
+│   ├── manipulacao_memoria.py   # Views, cópias e eficiência
+│   └── funcoes_avancadas.ipynb  # Ufuncs, vectorização e customização
+└── avancado/
+    ├── performance_comparacao.ipynb # NumPy vs Python puro (loops, listas)
+    └── integracao_pandas.ipynb      # Como NumPy serve de base para Pandas
+
+
 │
 ├── matplotlib/              # Visualização básica
 │   ├── graficos_comuns.ipynb
 │   └── formatacao.py
+
+
 │
 └── seaborn/                 # Visualização avançada
     ├── heatmaps_boxplots.ipynb
@@ -40,6 +56,9 @@ pandas/
 │   ├── normalizacao.ipynb  
 │   └── encoding_categorico.py  
 │
+
+
+
 ├── projetos/               # Projetos práticos (destaque para o portfólio!).  
 │   ├── analise_vendas/     # EDA com dataset de vendas.  
 │   │   ├── dados.csv  
