@@ -76,7 +76,7 @@ Este repositório faz parte de um conjunto de estudos e projetos que abrangem:
 ## 📬 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
-📧 Email: marlon.99henrique@gmail.com
+📧 Email: marlon.99henrique@gmail.com  
 📄 [Currículo Site](https://marlon99henrique.github.io/)
 
 ---
