@@ -20,7 +20,7 @@ O foco está em demonstrar como aplicar operações matemáticas complexas, esta
   - Combinação de arrays sem loops explícitos  
   - Casos práticos em pré-processamento e cálculos matemáticos  
 
-- [**manipulacao_memoria.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/casos_especias/manipulacao_memoria.py) 
+- [**manipulacao_memoria.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/casos_especias/manipulacao_memoria.py)  
   Exemplos de otimização de memória e performance:  
   - Tipos de dados (`dtype`) e impacto na memória  
   - Diferença entre `copy` e `view`  
