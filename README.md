@@ -62,7 +62,7 @@ python-data-science/
 Este repositório faz parte de um conjunto de estudos e projetos que abrangem:
 
 - [📊 Ciência de Dados](https://github.com/Marlon99henrique/portfolio-ciencia-de-dados.git)  
-- [🐍 Python - Jornada de Aprendizado](https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git)  
+- [🐍 Python-data-science](https://github.com/Marlon99henrique/python-data-science.git)  
 
 🔗 Veja todos os meus projetos no meu perfil:  
 [Meu GitHub](https://github.com/Marlon99henrique)
