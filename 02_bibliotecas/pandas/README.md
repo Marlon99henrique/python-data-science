@@ -7,7 +7,7 @@ Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das
 
 ## 📂 Estrutura
 
-pandas/
+pandas/  
 ├── 📓 fundamentos/               # Conceitos essenciais  
 │   ├── 01_estruturas_basicas.ipynb  
 │   └── 02_operacoes_core.ipynb  
