@@ -12,7 +12,7 @@ pandas/
 ├── 📓 introducao.ipynb              # Fundamentos essenciais  
 ├── 🔍 analise_exploratoria.ipynb    # Análise Exploratória de Dados (EDA)  
 ├── ⚙️ casos_especiais/  
-│   ├── 🔗 combinando_dados.ipynb    # Técnicas avançadas de combinação  
+│ &nbsp;  ├── 🔗 combinando_dados.ipynb    # Técnicas avançadas de combinação  
 │   ├── 🕒 series_temporais.py       # Manipulação profissional de datas  
 │   └── 🧩 missing_values.ipynb      # Estratégias para dados incompletos  
 └── 🚀 avancado/  
