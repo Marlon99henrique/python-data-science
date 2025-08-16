@@ -7,18 +7,25 @@ O objetivo é mostrar habilidades práticas que vão além do básico, como **co
 
 ## 📌 Conteúdo da pasta
 
-- **combinando_dados.ipynb**  
+- [**combinando_dados.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/casos_especiais/combinando_dados.ipynb) 
   Exemplos de como unir e mesclar datasets diferentes usando:
   - `merge()`, `concat()`, `join()`  
   - Técnicas de alinhamento por chaves e índices  
   - Exemplos com datasets reais simulados  
 
-- **series_temporais.py**  
+- [**missing_values.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/casos_especiais/missing_values.ipynb) 
+  Demonstração de técnicas para lidar com valores ausentes:
+  - Identificação (`isnull()`, `notnull()`)  
+  - Remoção de registros incompletos (`dropna()`)  
+  - Preenchimento com valores estatísticos (`fillna()`)  
+  - Estratégias mais avançadas de imputação  
+
+- [**series_temporais.py**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/casos_especiais/series_temporais.py)  
   Demonstração de manipulação de dados temporais:
   - Conversão de colunas para `datetime`  
   - Indexação por datas  
   - Resampling, rolling windows e agregações  
-  - Operações comuns em séries temporais financeiras ou de sensores
+  - Operações comuns em séries temporais financeiras ou de sensores  
 
 ---
 
