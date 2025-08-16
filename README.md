@@ -28,8 +28,6 @@ python-data-science/
 
 ---
 
-### 4. **Destaques com Emojis Temáticos**
-Você pode adicionar emojis para reforçar visualmente os tópicos:
 
 ## 🔍 Destaques
 
