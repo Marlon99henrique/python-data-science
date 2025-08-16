@@ -1,11 +1,4 @@
-# 📊 Pandas — Manipulação e Análise de Dados
 
-Este diretório reúne exemplos práticos de uso do **Pandas**, biblioteca essencial para análise e manipulação de dados em Python.  
-Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das principais funcionalidades da biblioteca**, aplicadas em diferentes contextos.
-
----
-
-## 📂 Estrutura
 
 # 📊 Pandas — Manipulação e Análise de Dados
 
@@ -16,13 +9,13 @@ Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das
 
 ## 📂 Estrutura
 
-pandas/
+pandas/  
 │
 ├── introducao.ipynb # Criação e manipulação de Series e DataFrames  
 ├── analise_exploratoria.ipynb # Análise exploratória (EDA) em dataset real  
 └── casos_especiais/ # Técnicas avançadas  
-├── combinando_dados.ipynb # Merge, concat, join e groupby  
-└── series_temporais.py # Manipulação de datas e séries temporais  
+    ├── combinando_dados.ipynb # Merge, concat, join e groupby  
+    └── series_temporais.py # Manipulação de datas e séries temporais  
 
 ---
 
