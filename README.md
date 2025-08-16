@@ -40,7 +40,6 @@ Este repositório está organizado em pastas temáticas que cobrem desde os fund
 - 🧩 [**`extras/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/06_extras)  
   Conteúdos complementares como **SQL**, integração com **APIs**, e otimização de código.
 
----
 
 💡 *Dica:* Dentro de cada pasta você encontrará notebooks organizados em ordem lógica, com exemplos práticos e explicações passo a passo para facilitar o estudo e a navegação.
 
