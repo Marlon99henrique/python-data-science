@@ -1,0 +1,47 @@
+python-data-science/  
+│
+├── .gitignore              # Ignorar venv, __pycache__, dados temporários, etc.  
+├── README.md               # Descrição do repositório, objetivos e como usar.  
+├── requirements.txt        # Dependências do projeto (pandas, numpy, etc.).  
+│
+├── fundamentos/            # Conceitos básicos e intermediários.  
+│   ├── tipos_estruturas.py  
+│   ├── funcoes_metodos.ipynb  
+│   └── tratamento_arquivos.py  
+│
+├── bibliotecas/            # Foco em libs para análise de dados.  
+│   ├── pandas_intro.ipynb  # Exemplo: Análise do dataset Iris.  
+│   ├── numpy_exemplos.py  
+│   └── visualizacao/       # Matplotlib/Seaborn.  
+│       ├── graficos_basicos.ipynb  
+│       └── customizacao.py  
+│
+├── pre_processamento/      # Limpeza e preparação de dados.  
+│   ├── handling_missing.py  
+│   ├── normalizacao.ipynb  
+│   └── encoding_categorico.py  
+│
+├── projetos/               # Projetos práticos (destaque para o portfólio!).  
+│   ├── analise_vendas/     # EDA com dataset de vendas.  
+│   │   ├── dados.csv  
+│   │   ├── exploracao.ipynb  
+│   │   └── relatorio.md  
+│   │
+│   ├── web_scraping/       # Coleta de dados de sites.  
+│   │   ├── script.py  
+│   │   └── output/         # Dados coletados.  
+│   │
+│   └── previsao_precos/    # Mini-projeto end-to-end.  
+│       ├── modelo.py  
+│       ├── treino.ipynb  
+│       └── dados/  
+│
+├── boas_praticas/          # Tópicos para código profissional.  
+│   ├── documentacao.md     # Como escrever docstrings.  
+│   ├── virtualenv_setup.sh # Configuração de ambiente.  
+│   └── testes_pytest.py  
+│
+└── extras/                # Diferenciais para vagas.  
+    ├── sql_integration.py  # Conexão com SQLite/PostgreSQL.  
+    ├── api_consumo.ipynb   # Exemplo: requests + JSON.  
+    └── dicas_performance.md  

@@ -1,0 +1,12 @@
+{
+    "cliente": {
+        "id": 123,
+        "nome": "Ana Silva",
+        "compras": [
+            {
+                "produto": "Monitor",
+                "valor": 799.9
+            }
+        ]
+    }
+}
