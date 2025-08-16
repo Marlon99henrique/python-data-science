@@ -8,7 +8,7 @@ Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das
 ## 📂 Estrutura
 
 pandas/  
-│
+│  
 ├── introducao.ipynb              # Básico: DataFrames, filtros, tipos  
 ├── analise_exploratoria.ipynb    # EDA prática com dataset real  
 ├── casos_especiais/  
@@ -18,7 +18,7 @@ pandas/
 └── avancado/  
     ├── performance_memoria.ipynb # Otimização, apply vs vectorization  
     └── pipeline_limpeza.py       # Exemplo de fluxo de limpeza  
-
+  
 ---
 
 ## 📌 Conteúdo da pasta
