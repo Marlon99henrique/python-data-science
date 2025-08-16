@@ -45,4 +45,3 @@ Marlon — apaixonado por dados, aprendizado contínuo e boas práticas de códi
 
 ---
 
-Se quiser, posso montar também o README da pasta `bibliotecas/` ou dos projetos. Só dizer!
