@@ -1,49 +1,45 @@
-# 📊 Pandas — Manipulação e Análise de Dados
+# 🔢 NumPy — Fundamentos e Avançado
 
-Este diretório reúne exemplos práticos de uso do **Pandas**, biblioteca essencial para análise e manipulação de dados em Python.  
-Os notebooks e scripts foram criados para **demonstrar domínio das principais funcionalidades da biblioteca**, aplicadas em diferentes contextos, desde fundamentos até casos avançados.
+Este diretório reúne exemplos práticos de uso do **NumPy**, biblioteca essencial para **computação numérica e manipulação eficiente de arrays em Python**.  
+Os notebooks e scripts foram desenvolvidos para **demonstrar domínio das principais funcionalidades e técnicas avançadas**, aplicadas em contextos de Ciência de Dados e Machine Learning.
 
 ---
 
-## 📂 Estrutura da pasta
+## 📂 Estrutura
 
-- [**introducao.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/01_introducao.ipynb)    
-  Conceitos básicos de Pandas:
-  - Criação de `Series` e `DataFrames`  
-  - Indexação e seleção de dados  
-  - Operações fundamentais de filtragem e transformação  
-
-- [**analise_exploratoria.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/02_analise_exploratoria.ipynb)  
-  Aplicação de técnicas de **EDA (Exploratory Data Analysis)** em dataset real:
-  - Estatísticas descritivas (`info()`, `describe()`)  
-  - Visualização inicial de dados  
-  - Identificação de padrões, outliers e insights  
-
-- [**casos_especiais/**](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/pandas/casos_especiais)  
-  Técnicas avançadas de manipulação de dados:
-  - **combinando_dados.ipynb** → `merge`, `concat`, `join`, `groupby`  
-  - **missing_values.ipynb** → estratégias de detecção e imputação de valores ausentes  
-  - **series_temporais.py** → manipulação de datas, resampling, rolling windows  
-
-- [**avancado/**](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/pandas/avan%C3%A7ado)  
-  Exemplos de uso profissional do Pandas:
-  - **performance_memoria.ipynb** → otimização com `apply` vs. vetorização  
-  - **pipeline_limpeza.py** → fluxo de pré-processamento com funções reutilizáveis  
+numpy/  
+│
+├── introducao.ipynb             # Arrays, indexação, slicing, dtypes  
+├── operacoes_basicas.py         # Operações matemáticas e estatísticas básicas  
+├── algebra_linear.ipynb         # Produto escalar, matrizes, determinante, autovalores  
+├── casos_especiais/             # Técnicas avançadas e manipulação eficiente  
+│   ├── broadcasting.ipynb       # Operações entre arrays de diferentes dimensões  
+│   ├── manipulacao_memoria.py   # Views, cópias e eficiência de memória  
+│   └── funcoes_avancadas.ipynb  # Ufuncs, vectorização e funções customizadas  
+└── avancado/                    # Performance e integração com Pandas  
+    ├── performance_comparacao.ipynb # Comparação de performance NumPy vs Python puro  
+    └── integracao_pandas.ipynb      # Pré-processamento e integração com DataFrames  
 
 ---
 
 ## 🔑 Habilidades demonstradas
 
-- Criação, indexação e filtragem de **Series** e **DataFrames**  
-- **Limpeza e transformação** de dados (missing values, normalização, encoding)  
-- Combinação de datasets (`merge`, `concat`, `join`) e agregações (`groupby`)  
-- Análise exploratória com estatísticas descritivas e visualizações iniciais  
-- Manipulação de **datas e séries temporais**  
-- Técnicas de **otimização e boas práticas** para pipelines de dados  
+- Criação, indexação e slicing de arrays multidimensionais  
+- Operações matemáticas, estatísticas e álgebra linear  
+- Uso avançado de **broadcasting**, **ufuncs** e **vetorização**  
+- Gerenciamento de memória: views vs cópias, eficiência em datasets grandes  
+- Integração de NumPy com Pandas e pré-processamento de dados para ML  
+- Comparação de performance entre abordagens vetorizadas e loops tradicionais  
 
 ---
 
 ## 🎯 Objetivo desta seção
 
-Expor meu conhecimento prático em **Pandas**, mostrando habilidades desde o **nível fundamental até o avançado**.  
-Os exemplos foram estruturados para refletir situações reais de **análise de dados, preparação de datasets e construção de pipelines**, sendo diretamente aplicáveis em projetos de **Ciência de Dados**.
+Expor meu conhecimento prático em **NumPy**, aplicando técnicas de manipulação eficiente de dados numéricos, pré-processamento de datasets e otimização de código, destacando competências importantes para **vagas de Ciência de Dados e Machine Learning**.
+
+---
+
+## ⚡ Observações
+
+- Todos os notebooks e scripts são comentados e estruturados para **facilitar leitura e entendimento**  
+- Esta pasta complementa outras bibliotecas e exemplos do portfólio, formando um **workflow completo de manipulação numérica e integração com dados reais**
