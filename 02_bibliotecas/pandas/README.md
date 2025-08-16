@@ -7,17 +7,28 @@ Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das
 
 ## 📂 Estrutura
 
-pandas/  
-│  
-├── introducao.ipynb             # Criação e manipulação de Series e DataFrames  
-├── analise_exploratoria.ipynb   # Análise exploratória (EDA) em dataset real  
-├── casos_especiais/             # Técnicas avançadas  
-│   ├── combinando_dados.ipynb   # Merge, concat, join e groupby  
-│   ├── missing_values.ipynb     # Tratamento de dados faltantes  
-│   └── series_temporais.py      # Manipulação de datas e séries temporais  
-└── avancado/                    # Performance e pipelines  
-    ├── performance_memoria.ipynb # Otimização, apply vs vectorization  
-    └── pipeline_limpeza.py       # Exemplo de fluxo de limpeza de dados  
+pandas/
+├── 📓 fundamentos/               # Conceitos essenciais
+│   ├── 01_estruturas_basicas.ipynb
+│   └── 02_operacoes_core.ipynb
+│
+├── 🔍 analise/                   # Análise exploratória profissional
+│   ├── eda_automotivo.ipynb
+│   └── eda_financeiro.ipynb
+│
+├── ⚙️ processamento/            # Engenharia de dados
+│   ├── combinacao_dados/
+│   │   ├── merge_vs_concat.ipynb
+│   │   └── join_patterns.py
+│   │
+│   ├── tratamento/
+│   │   ├── missing_values.ipynb
+│   │   └── outliers.ipynb
+│   │
+│   └── temporais/
+│       ├── datetime_advanced.ipynb
+│       └── resampling_financeiro.py
+│
 
 ---
 
