@@ -61,3 +61,16 @@ Composição de múltiplos gráficos:
 ## 🎯 Objetivo desta seção
 
 Demonstrar domínio técnico em Seaborn, evidenciando habilidades em visualização estatística, personalização estética e integração com outras bibliotecas. Esta seção reforça minha capacidade de comunicar padrões e insights de forma clara, elegante e eficaz — essencial em projetos de análise exploratória, relatórios e dashboards interativos.
+---
+
+## 🛠️ Requisitos
+
+- Python 3.8+  
+- Seaborn 0.11+  
+- Pandas e Matplotlib  
+- Jupyter Notebook
+
+Instale as dependências com:
+
+```bash
+pip install seaborn pandas matplotlib jupyter
