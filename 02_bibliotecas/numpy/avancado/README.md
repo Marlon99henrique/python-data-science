@@ -7,13 +7,13 @@ O objetivo é mostrar habilidades práticas para **análises de grandes volumes 
 
 ## 📌 Conteúdo da pasta
 
-- **performance_comparacao.ipynb**  
+- [**performance_comparacao.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/avancado/performance_comparacao.ipynb)  
   Comparação de performance em diferentes abordagens com NumPy:
   - Operações vetorizadas vs loops tradicionais  
   - Medição de tempo de execução e consumo de memória  
   - Estratégias para manipulação eficiente de datasets grandes  
 
-- **integracao_pandas.ipynb**  
+- [**integracao_pandas.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/avancado/integracao_pandas.ipynb)  
   Demonstração de **integração entre NumPy e Pandas**:
   - Pré-processamento de datasets grandes para Machine Learning  
   - Aplicação de operações vetorizadas e funções matemáticas em colunas de DataFrames  
