@@ -1,26 +1,40 @@
-# 🏎️ Avançado | Pandas e Pré-processamento
+# 🚀 Pandas — Avançado
 
-Esta pasta contém notebooks e scripts avançados de **pré-processamento e otimização de dados** com Pandas, voltados para uso profissional em Ciência de Dados.
+Esta seção apresenta conteúdos avançados da biblioteca Pandas, com foco em performance, organização de fluxos de limpeza e boas práticas para manipulação de dados em escala. Os exemplos aqui demonstram como aplicar Pandas em cenários reais que exigem eficiência, legibilidade e robustez — características essenciais em projetos profissionais de ciência de dados.
 
 ---
 
-## 📂 Estrutura da pasta
+## 📚 Conteúdo
 
-- [**performance_memoria.ipynb**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/avan%C3%A7ado/performance_memoria.ipynb)  
-  Demonstra técnicas de **otimização de memória** e eficiência computacional em DataFrames, comparando `apply` vs **vectorization** e mostrando boas práticas para trabalhar com grandes volumes de dados.
+### `performance_memoria.ipynb`
+Otimização de código com foco em velocidade e uso de memória:
 
-- [**pipeline_limpeza.py**](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/pandas/avan%C3%A7ado/pipeline_limpeza.py)  
-  Exemplo de **pipeline de pré-processamento** reutilizável, mostrando:
-  - Estrutura profissional de funções
-  - Tratamento de valores ausentes (missing values)
-  - Normalização de colunas numéricas
-  - Codificação de variáveis categóricas
-  - Preparação de dados pronta para projetos e portfólio
+- Comparação entre `apply()`, `map()` e vetorização  
+- Redução de consumo de memória com tipos de dados apropriados  
+- Estratégias para acelerar transformações em grandes datasets  
+
+### `pipeline_limpeza.py`
+Construção de um fluxo de limpeza de dados:
+
+- Encadeamento de operações com `.pipe()`  
+- Modularização de etapas de pré-processamento  
+- Aplicação de funções customizadas em sequência lógica  
 
 ---
 
 ## 🎯 Objetivo
 
-O objetivo desta pasta é demonstrar habilidades avançadas em Pandas e pré-processamento, evidenciando **boas práticas de código, otimização e preparação de dados** para projetos de Ciência de Dados.
+Demonstrar domínio técnico em manipulação avançada de dados com Pandas, aplicando boas práticas de performance e organização. Esta seção reforça minha capacidade de preparar dados de forma eficiente, escalável e reutilizável — essencial para projetos robustos e colaborativos.
 
 ---
+
+## 🛠️ Requisitos
+
+- Python 3.8+  
+- Pandas 1.3+  
+- Jupyter Notebook
+
+Instale as dependências com:
+
+```bash
+pip install pandas jupyter
