@@ -1,6 +1,6 @@
 # 🐍 [Python para Ciência de Dados - Portfólio](https://github.com/Marlon99henrique/python-data-science/tree/main)
 
-Repositório focado em demonstrar habilidades em Python aplicadas à Ciência de Dados, com projetos, exercícios e boas práticas para vagas de nível júnior.
+Repositório voltado para demonstrar habilidades práticas em Python aplicadas à Ciência de Dados, com projetos reais, boas práticas e foco em vagas de nível júnior.  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
