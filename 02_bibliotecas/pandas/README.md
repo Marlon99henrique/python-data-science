@@ -18,11 +18,11 @@ Os notebooks e scripts foram criados com o objetivo de **demonstrar domínio das
 
 pandas/
 │
-├── introducao.ipynb # Criação e manipulação de Series e DataFrames
-├── analise_exploratoria.ipynb # Análise exploratória (EDA) em dataset real
-└── casos_especiais/ # Técnicas avançadas
-├── combinando_dados.ipynb # Merge, concat, join e groupby
-└── series_temporais.py # Manipulação de datas e séries temporais
+├── introducao.ipynb # Criação e manipulação de Series e DataFrames  
+├── analise_exploratoria.ipynb # Análise exploratória (EDA) em dataset real  
+└── casos_especiais/ # Técnicas avançadas  
+├── combinando_dados.ipynb # Merge, concat, join e groupby  
+└── series_temporais.py # Manipulação de datas e séries temporais  
 
 ---
 
