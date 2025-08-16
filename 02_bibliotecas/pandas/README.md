@@ -12,12 +12,12 @@ pandas/
 ├── 📓 introducao.ipynb              # Fundamentos essenciais  
 ├── 🔍 analise_exploratoria.ipynb    # Análise Exploratória de Dados (EDA)  
 ├── ⚙️ casos_especiais/  
-│ &nbsp;  ├── 🔗 combinando_dados.ipynb    # Técnicas avançadas de combinação  
-│   ├── 🕒 series_temporais.py       # Manipulação profissional de datas  
-│   └── 🧩 missing_values.ipynb      # Estratégias para dados incompletos  
+│&nbsp;&nbsp;├── 🔗 combinando_dados.ipynb    # Técnicas avançadas de combinação  
+│&nbsp;&nbsp;├── 🕒 series_temporais.py       # Manipulação profissional de datas  
+│&nbsp;&nbsp;└── 🧩 missing_values.ipynb      # Estratégias para dados incompletos  
 └── 🚀 avancado/  
-    ├── ⚡ performance_memoria.ipynb # Técnicas de otimização  
-    └── 🧹 pipeline_limpeza.py       # Pipeline de limpeza production-ready  
+&nbsp;&nbsp;├── ⚡ performance_memoria.ipynb # Técnicas de otimização  
+&nbsp;&nbsp;└── 🧹 pipeline_limpeza.py       # Pipeline de limpeza production-ready  
   
 ---
 
