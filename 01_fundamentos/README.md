@@ -32,16 +32,5 @@ Dominar os fundamentos do Python é essencial para qualquer profissional de dado
 
 ---
 
-## 🛠️ Requisitos
 
-- Python 3.8+
-- Editor de código (VS Code, Jupyter Notebook, etc.)
-
----
-
-## ✍️ Autor
-
-Marlon — apaixonado por dados, aprendizado contínuo e boas práticas de código.
-
----
 
