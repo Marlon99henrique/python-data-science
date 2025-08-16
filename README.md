@@ -1,18 +1,58 @@
-# 🐍 Python para Ciência de Dados
+# 🐍 Python para Ciência de Dados - Portfólio 
 
-Este repositório reúne anotações, exemplos e mini-projetos que desenvolvi para consolidar meus conhecimentos em **Python**, com foco na aplicação prática para **Ciência de Dados**.
+Repositório focado em demonstrar habilidades em Python aplicadas à Ciência de Dados, com projetos, exercícios e boas práticas para vagas de nível júnior.
 
-## 🎯 Objetivo
-Demonstrar domínio de Python desde os fundamentos até aplicações práticas em análise de dados, visualização e automação.
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
 
-## 📚 Conteúdo
-1. **Fundamentos** → Variáveis, operadores, estruturas de controle, funções.
-2. **Estruturas de dados** → Listas, tuplas, conjuntos, dicionários.
-3. **Tratamento de dados** → Leitura, escrita e limpeza de arquivos.
-4. **Visualização básica** → Gráficos com Matplotlib e Pandas.
-5. **Projetos aplicados** → Mini-projetos conectando Python e Ciência de Dados.
+---
 
-## 🚀 Como executar
-1. Clone este repositório:
+## 📌 Objetivo
+
+- Demonstrar domínio de Python para análise e manipulação de dados  
+- Documentar projetos replicáveis com datasets reais  
+- Servir como material de estudo e referência para iniciantes  
+
+---
+
+## 🗂 Estrutura do Repositório  
+python-data-science/
+├── fundamentos/ # Conceitos básicos e intermediários
+├── bibliotecas/ # Pandas, NumPy, Visualização
+├── pre_processamento/ # Limpeza e transformação
+├── projetos/ # Projetos completos
+├── boas_praticas/ # Documentação e testes
+└── extras/ # SQL, APIs e otimização
+
+## 🚀 Como Usar
+1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/python-para-ciencia-de-dados.git
+   git clone https://github.com/seu-usuario/python-data-science.git
+2.Instale as dependências:
+
+bash
+pip install -r requirements.txt  
+3. Explore os notebooks Jupyter ou scripts Python por tópico.  
+🔍 Destaques
+Projetos Práticos
+Análise de Vendas: EDA com gráficos e insights.
+
+Web Scraping: Coleta de dados de e-commerce.
+
+Previsão de Preços: Modelo simples de regressão.
+
+Bibliotecas-Chave
+Biblioteca	Aplicação	Exemplo no Repo
+Pandas	Manipulação de DataFrames	Pandas Intro
+Seaborn	Visualização	Gráficos Customizados
+📚 Recursos Adicionais
+Datasets Recomendados (Kaggle, IBGE)
+
+Documentação Python
+
+Cheat Sheet Pandas
+
+
+
+   
