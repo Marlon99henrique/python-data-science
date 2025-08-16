@@ -33,5 +33,4 @@ Integração com Matplotlib para controle total:
 
 Demonstrar domínio técnico em visualizações estatísticas com Seaborn, aplicadas em contextos reais e complexos. Esta seção é voltada para quem deseja ir além dos gráficos padrão e criar visualizações refinadas e informativas.
 
----
 
