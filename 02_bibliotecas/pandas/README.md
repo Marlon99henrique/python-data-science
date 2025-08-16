@@ -59,17 +59,6 @@ Exemplo de pipeline de limpeza profissional:
 
 ---
 
-## 🔑 Habilidades demonstradas
-
-- Criação, indexação e filtragem de **Series** e **DataFrames**
-- **Limpeza e transformação** de dados
-- Uso de funções como `groupby`, `merge`, `concat` e `apply`
-- Análise exploratória com estatísticas descritivas (`info`, `describe`, etc.)
-- Manipulação de **datas e séries temporais**
-- Boas práticas de performance e construção de pipelines de dados
-
----
-
 ## 🎯 Objetivo desta seção
 
 Expor meu conhecimento prático em **Pandas**, aplicando técnicas de manipulação de dados utilizadas em análises estatísticas, preparação de datasets e construção de pipelines de **Ciência de Dados**, servindo como diferencial em portfólio profissional.
