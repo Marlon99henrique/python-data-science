@@ -17,13 +17,16 @@ Repositório voltado para demonstrar habilidades práticas em Python aplicadas �
 ---
 
 ## 🗂 Estrutura do Repositório  
-python-data-science/  
-├── fundamentos/       # Conceitos básicos e intermediários  
-├── bibliotecas/       # Pandas, NumPy, Visualização  
-├── pre_processamento/ # Limpeza e transformação  
-├── projetos/          # Projetos completos  
-├── boas_praticas/     # Documentação e testes  
-└── extras/            # SQL, APIs e otimização  
+  
+### 📌 Descrição das pastas
+python-data-science/
+
+- **`fundamentos/`** → Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.
+- **`bibliotecas/`** → Uso de bibliotecas como **Pandas**, **NumPy** e ferramentas de visualização.
+- **`pre_processamento/`** → Técnicas para limpeza, normalização e transformação de dados.
+- **`projetos/`** → Projetos completos aplicando todo o conhecimento do repositório.
+- **`boas_praticas/`** → Boas práticas, padrões de código, documentação e testes.
+- **`extras/`** → Conteúdos complementares como SQL, integração com APIs e otimização de código.
 
 ---
 
