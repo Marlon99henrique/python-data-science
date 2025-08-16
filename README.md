@@ -61,12 +61,6 @@ Este repositório está organizado em pastas temáticas que cobrem desde os fund
   Modelo simples de regressão linear para estimativas.
 ---
 
-## 📦 Bibliotecas-Chave
-
-| Biblioteca | Aplicação                   | Exemplo no Repositório         |
-|------------|-----------------------------|--------------------------------|
-| Pandas     | Manipulação de DataFrames   | `notebooks/pandas_intro.ipynb` |
-| Seaborn    | Visualização de dados       | `notebooks/graficos_customizados.ipynb` |
 ## 📚 Recursos Adicionais
 
 - 🔗 [Kaggle Datasets](https://www.kaggle.com/datasets)  
