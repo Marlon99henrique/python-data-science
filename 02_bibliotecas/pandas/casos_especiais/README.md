@@ -33,14 +33,3 @@ Tratamento de dados faltantes:
 
 Demonstrar domínio técnico em operações complexas com Pandas, aplicadas em contextos reais. Esta seção é voltada para quem deseja ir além do básico e enfrentar os desafios mais comuns na preparação e análise de dados.
 
----
-
-## 🛠️ Requisitos
-
-- Python 3.8+
-- Pandas 1.3+
-- Jupyter Notebook
-
----
-
-
