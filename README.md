@@ -17,13 +17,13 @@ Repositório focado em demonstrar habilidades em Python aplicadas à Ciência de
 ---
 
 ## 🗂 Estrutura do Repositório  
-python-data-science/
-├── fundamentos/ # Conceitos básicos e intermediários
-├── bibliotecas/ # Pandas, NumPy, Visualização
-├── pre_processamento/ # Limpeza e transformação
-├── projetos/ # Projetos completos
-├── boas_praticas/ # Documentação e testes
-└── extras/ # SQL, APIs e otimização
+python-data-science/  
+├── fundamentos/ # Conceitos básicos e intermediários  
+├── bibliotecas/ # Pandas, NumPy, Visualização  
+├── pre_processamento/ # Limpeza e transformação  
+├── projetos/ # Projetos completos  
+├── boas_praticas/ # Documentação e testes  
+└── extras/ # SQL, APIs e otimização  
 
 ## 🚀 Como Usar
 1. Clone o repositório:
