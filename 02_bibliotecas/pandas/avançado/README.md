@@ -26,15 +26,3 @@ Construção de um fluxo de limpeza de dados:
 
 Demonstrar domínio técnico em manipulação avançada de dados com Pandas, aplicando boas práticas de performance e organização. Esta seção reforça minha capacidade de preparar dados de forma eficiente, escalável e reutilizável — essencial para projetos robustos e colaborativos.
 
----
-
-## 🛠️ Requisitos
-
-- Python 3.8+  
-- Pandas 1.3+  
-- Jupyter Notebook
-
-Instale as dependências com:
-
-```bash
-pip install pandas jupyter
