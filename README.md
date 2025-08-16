@@ -46,9 +46,7 @@ python-data-science/
 | Pandas     | Manipulação de DataFrames   | `notebooks/pandas_intro.ipynb` |
 | Seaborn    | Visualização de dados       | `notebooks/graficos_customizados.ipynb` |
 ## 📚 Recursos Adicionais
-Datasets Recomendados (Kaggle, IBGE)
-
-Documentação Python
-
-Cheat Sheet Pandas
+- Datasets Recomendados (Kaggle, IBGE)  
+- Documentação Python  
+- Cheat Sheet Pandas
 
