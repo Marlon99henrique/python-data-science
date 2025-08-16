@@ -58,9 +58,10 @@ Composição de múltiplos gráficos:
 
 ---
 
-## 🎯 Objetivo desta seção
+## 🎯 Objetivo
 
-Demonstrar domínio técnico em Seaborn, evidenciando habilidades em visualização estatística, personalização estética e integração com outras bibliotecas. Esta seção reforça minha capacidade de comunicar padrões e insights de forma clara, elegante e eficaz — essencial em projetos de análise exploratória, relatórios e dashboards interativos.
+Demonstrar domínio técnico em visualização estatística com Seaborn, aplicando boas práticas de design gráfico, controle programático e integração com outras bibliotecas. Esta pasta reforça minha capacidade de comunicar insights com clareza, impacto visual e adaptabilidade ao público-alvo.
+
 ---
 
 ## 🛠️ Requisitos
