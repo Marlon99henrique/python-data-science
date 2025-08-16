@@ -33,4 +33,3 @@ Criação de funções vetorizadas:
 Demonstrar domínio técnico em operações avançadas com NumPy, incluindo vetorização, indexação inteligente e otimização de desempenho. Esta seção é voltada para quem deseja aplicar NumPy em projetos robustos e de alta performance.
 
 
----
