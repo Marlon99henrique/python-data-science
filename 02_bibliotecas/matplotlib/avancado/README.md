@@ -33,13 +33,3 @@ Combinação de Matplotlib com outras bibliotecas:
 
 Demonstrar domínio técnico em visualizações complexas com Matplotlib, incluindo múltiplos eixos, personalização avançada e integração com outras ferramentas. Esta seção é voltada para quem deseja criar gráficos refinados e adaptados a diferentes públicos e contextos.
 
----
-
-## 🛠️ Requisitos
-
-- Python 3.8+
-- Matplotlib 3.4+
-- Pandas e Seaborn (opcional)
-
----
-
