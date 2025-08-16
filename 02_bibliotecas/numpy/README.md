@@ -6,7 +6,7 @@ Este diretório reúne exemplos práticos de uso do NumPy, biblioteca fundamenta
 
 ## 🧠 Conteúdo
 
-### `introducao.ipynb`
+### [`introducao.ipynb`](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/introducao.ipynb)
 Fundamentos essenciais para trabalhar com arrays:
 
 - Criação de arrays com diferentes dimensões  
