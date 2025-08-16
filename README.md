@@ -25,16 +25,16 @@ Este repositório está organizado em pastas temáticas que cobrem desde os fund
 - 📘 [**fundamentos/**](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)  
   Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.
 
-- 🧰 [**`bibliotecas/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas)  
+- 🧰 [**bibliotecas/**](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas)  
   Uso prático de bibliotecas como **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, entre outras.
 
-- 🧼 [**`pre_processamento/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/03_pre_processamento)  
+- 🧼 [**pre_processamento/**](https://github.com/Marlon99henrique/python-data-science/tree/main/03_pre_processamento)  
   Técnicas para limpeza, normalização, transformação e preparação de dados.
 
-- 🚀 [**`projetos/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/04_projetos)  
+- 🚀 [**projetos/**](https://github.com/Marlon99henrique/python-data-science/tree/main/04_projetos)  
   Projetos completos aplicando todo o conhecimento adquirido no repositório.
 
-- 🧪 [**`boas_praticas/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/05_boas_praticas)  
+- 🧪 [**boas_praticas/**](https://github.com/Marlon99henrique/python-data-science/tree/main/05_boas_praticas)  
   Padrões de código, testes automatizados, documentação e práticas recomendadas.
 
 - 🧩 [**`extras/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/06_extras)  
@@ -42,7 +42,8 @@ Este repositório está organizado em pastas temáticas que cobrem desde os fund
 
 ---
 
-💡 *Dica:* Para navegar rapidamente, explore os notebooks dentro de cada pasta — eles estão organizados para facilitar o aprendizado progressivo.
+💡 *Dica:* Dentro de cada pasta você encontrará notebooks organizados em ordem lógica, com exemplos práticos e explicações passo a passo para facilitar o estudo e a navegação.
+
 
 ---
 
