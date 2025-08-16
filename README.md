@@ -16,17 +16,33 @@ Repositório voltado para demonstrar habilidades práticas em Python aplicadas �
 
 ---
 
-## 🗂 Estrutura do Repositório  
-  
-### 📌 Descrição das pastas
-python-data-science/
+## 🗂 Estrutura do Repositório
 
-- [**`fundamentos/`** → Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)
-- [**`bibliotecas/`** → Uso de bibliotecas como **Pandas**, **NumPy** e ferramentas de visualização.](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas)
-- [**`pre_processamento/`** → Técnicas para limpeza, normalização e transformação de dados.](https://github.com/Marlon99henrique/python-data-science/tree/main/03_pre_processamento)
-- [**`projetos/`** → Projetos completos aplicando todo o conhecimento do repositório.](https://github.com/Marlon99henrique/python-data-science/tree/main/04_projetos)
-- [**`boas_praticas/`** → Boas práticas, padrões de código, documentação e testes.](https://github.com/Marlon99henrique/python-data-science/tree/main/05_boas_praticas)
-- [**`extras/`** → Conteúdos complementares como SQL, integração com APIs e otimização de código.](https://github.com/Marlon99henrique/python-data-science/tree/main/06_extras)
+Este repositório está organizado em pastas temáticas que cobrem desde os fundamentos até projetos completos de Ciência de Dados com Python.
+
+### 📌 Descrição das Pastas
+
+- 📘 [**`fundamentos/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)  
+  Conceitos básicos e intermediários de Python aplicados à Ciência de Dados.
+
+- 🧰 [**`bibliotecas/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas)  
+  Uso prático de bibliotecas como **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, entre outras.
+
+- 🧼 [**`pre_processamento/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/03_pre_processamento)  
+  Técnicas para limpeza, normalização, transformação e preparação de dados.
+
+- 🚀 [**`projetos/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/04_projetos)  
+  Projetos completos aplicando todo o conhecimento adquirido no repositório.
+
+- 🧪 [**`boas_praticas/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/05_boas_praticas)  
+  Padrões de código, testes automatizados, documentação e práticas recomendadas.
+
+- 🧩 [**`extras/`**](https://github.com/Marlon99henrique/python-data-science/tree/main/06_extras)  
+  Conteúdos complementares como **SQL**, integração com **APIs**, e otimização de código.
+
+---
+
+💡 *Dica:* Para navegar rapidamente, explore os notebooks dentro de cada pasta — eles estão organizados para facilitar o aprendizado progressivo.
 
 ---
 
