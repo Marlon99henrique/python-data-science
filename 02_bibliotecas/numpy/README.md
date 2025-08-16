@@ -13,14 +13,14 @@ Fundamentos essenciais para trabalhar com arrays:
 - Indexação, slicing e atribuição de valores  
 - Tipos de dados (`dtype`) e conversões  
 
-### `operacoes_basicas.py`
+### [`operacoes_basicas.py`](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/operacoes_basicas.py)
 Operações matemáticas e estatísticas:
 
 - Soma, média, desvio padrão, produto  
 - Operações element-wise e agregações  
 - Comparações e máscaras booleanas  
 
-### `algebra_linear.ipynb`
+### [`algebra_linear.ipynb`](https://github.com/Marlon99henrique/python-data-science/blob/main/02_bibliotecas/numpy/algebra_linear.ipynb)
 Aplicações de álgebra linear com NumPy:
 
 - Produto escalar e multiplicação de matrizes  
@@ -29,7 +29,7 @@ Aplicações de álgebra linear com NumPy:
 
 ---
 
-### `casos_especiais/`
+### [`casos_especiais/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/casos_especias)
 
 #### `broadcasting.ipynb`
 Exemplos de operações entre arrays de dimensões diferentes:
@@ -54,7 +54,7 @@ Uso de funções universais e vetorização:
 
 ---
 
-### `avancado/`
+### [`avancado/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_bibliotecas/numpy/avancado)
 
 #### `performance_comparacao.ipynb`
 Benchmark entre NumPy e Python puro:
