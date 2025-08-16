@@ -1,45 +1,80 @@
-# 🔢 NumPy — Fundamentos e Avançado
+🧮 NumPy — Fundamentos Numéricos em Python
+Este diretório reúne exemplos práticos de uso do NumPy, biblioteca fundamental para operações matemáticas e manipulação eficiente de arrays em Python. Os notebooks e scripts foram criados com o objetivo de demonstrar domínio das principais funcionalidades da biblioteca, aplicadas em contextos de análise numérica e suporte à ciência de dados.
 
-Este diretório reúne exemplos práticos de uso do **NumPy**, biblioteca essencial para **computação numérica e manipulação eficiente de arrays em Python**.  
-Os notebooks e scripts foram desenvolvidos para **demonstrar domínio das principais funcionalidades e técnicas avançadas**, aplicadas em contextos de Ciência de Dados e Machine Learning.
+🧠 Conteúdo
+introducao.ipynb
+Fundamentos essenciais para trabalhar com arrays:
 
----
+Criação de arrays com diferentes dimensões
 
-## 📂 Estrutura
+Indexação, slicing e atribuição de valores
 
-numpy/  
-│
-├── introducao.ipynb             # Arrays, indexação, slicing, dtypes  
-├── operacoes_basicas.py         # Operações matemáticas e estatísticas básicas  
-├── algebra_linear.ipynb         # Produto escalar, matrizes, determinante, autovalores  
-├── casos_especiais/             # Técnicas avançadas e manipulação eficiente  
-│   ├── broadcasting.ipynb       # Operações entre arrays de diferentes dimensões  
-│   ├── manipulacao_memoria.py   # Views, cópias e eficiência de memória  
-│   └── funcoes_avancadas.ipynb  # Ufuncs, vectorização e funções customizadas  
-└── avancado/                    # Performance e integração com Pandas  
-    ├── performance_comparacao.ipynb # Comparação de performance NumPy vs Python puro  
-    └── integracao_pandas.ipynb      # Pré-processamento e integração com DataFrames  
+Tipos de dados (dtype) e conversões
 
----
+operacoes_basicas.py
+Operações matemáticas e estatísticas:
 
-## 🔑 Habilidades demonstradas
+Soma, média, desvio padrão, produto
 
-- Criação, indexação e slicing de arrays multidimensionais  
-- Operações matemáticas, estatísticas e álgebra linear  
-- Uso avançado de **broadcasting**, **ufuncs** e **vetorização**  
-- Gerenciamento de memória: views vs cópias, eficiência em datasets grandes  
-- Integração de NumPy com Pandas e pré-processamento de dados para ML  
-- Comparação de performance entre abordagens vetorizadas e loops tradicionais  
+Operações element-wise e agregações
 
----
+Comparações e máscaras booleanas
 
-## 🎯 Objetivo desta seção
+algebra_linear.ipynb
+Aplicações de álgebra linear com NumPy:
 
-Expor meu conhecimento prático em **NumPy**, aplicando técnicas de manipulação eficiente de dados numéricos, pré-processamento de datasets e otimização de código, destacando competências importantes para **vagas de Ciência de Dados e Machine Learning**.
+Produto escalar e multiplicação de matrizes
 
----
+Cálculo de determinantes e inversas
 
-## ⚡ Observações
+Autovalores e autovetores
 
-- Todos os notebooks e scripts são comentados e estruturados para **facilitar leitura e entendimento**  
-- Esta pasta complementa outras bibliotecas e exemplos do portfólio, formando um **workflow completo de manipulação numérica e integração com dados reais**
+casos_especiais/
+broadcasting.ipynb
+Exemplos de operações entre arrays de dimensões diferentes:
+
+Regras de broadcasting
+
+Casos práticos com vetores e matrizes
+
+Comparação com métodos tradicionais
+
+manipulacao_memoria.py
+Eficiência na manipulação de arrays:
+
+Diferença entre views e cópias
+
+Impacto na performance e uso de memória
+
+Estratégias para evitar redundância
+
+funcoes_avancadas.ipynb
+Uso de funções universais e vetorização:
+
+ufuncs e criação de funções customizadas
+
+Aplicação eficiente sobre grandes volumes de dados
+
+Comparação com loops tradicionais
+
+avancado/
+performance_comparacao.ipynb
+Benchmark entre NumPy e Python puro:
+
+Diferença de tempo e memória entre loops e vetorização
+
+Casos práticos com listas e arrays
+
+Boas práticas para otimização numérica
+
+integracao_pandas.ipynb
+Como o NumPy serve de base para o Pandas:
+
+Conversão entre arrays e DataFrames
+
+Operações compartilhadas e interoperabilidade
+
+Casos em que o uso conjunto é vantajoso
+
+🎯 Objetivo desta seção
+Demonstrar domínio técnico em NumPy, evidenciando habilidades em operações vetorizadas, álgebra linear, manipulação de memória e integração com outras bibliotecas. Esta seção reforça minha capacidade de trabalhar com dados numéricos de forma eficiente e estruturada, contribuindo para análises robustas e pipelines de ciência de dados.
