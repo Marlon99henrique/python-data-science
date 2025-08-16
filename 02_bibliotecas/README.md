@@ -1,6 +1,6 @@
-# 📚 Bibliotecas — Guia Prático de Análise de Dados com Python
+# 📚 Bibliotecas — Domínio Técnico em Ciência de Dados com Python
 
-Este diretório reúne conteúdos organizados sobre quatro das bibliotecas mais utilizadas em ciência de dados com Python: **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**. Cada pasta está dividida em níveis de complexidade — da introdução ao uso avançado — com exemplos práticos, notebooks interativos e scripts comentados.
+Esta pasta reúne conteúdos organizados sobre as principais bibliotecas utilizadas em projetos de ciência de dados com Python. Cada subpasta está dividida em níveis de complexidade — introdução, casos especiais e avançado — com exemplos práticos, notebooks interativos e scripts comentados. O objetivo é demonstrar domínio técnico, clareza didática e capacidade de aplicar essas ferramentas em contextos reais.
 
 ---
 
@@ -8,10 +8,10 @@ Este diretório reúne conteúdos organizados sobre quatro das bibliotecas mais 
 
 Manipulação e análise de dados tabulares.
 
-- `introducao.ipynb` — Fundamentos de DataFrames, filtros e tipos
-- `analise_exploratoria.ipynb` — EDA com dataset real
-- `casos_especiais/` — Combinação de dados, séries temporais e tratamento de nulos
-- `avancado/` — Otimização de memória e pipelines de limpeza
+- `introducao.ipynb` — Fundamentos de DataFrames, filtros e tipos  
+- `analise_exploratoria.ipynb` — EDA com dataset real  
+- `casos_especiais/` — Merge, concatenação, séries temporais e tratamento de nulos  
+- `avancado/` — Otimização de memória e construção de pipelines de limpeza  
 
 ---
 
@@ -19,11 +19,11 @@ Manipulação e análise de dados tabulares.
 
 Computação numérica de alta performance.
 
-- `introducao.ipynb` — Arrays, slicing e tipos de dados
-- `operacoes_basicas.py` — Estatísticas e operações matemáticas
-- `algebra_linear.ipynb` — Matrizes, determinantes e autovalores
-- `casos_especiais/` — Broadcasting, manipulação de memória e funções vetorizadas
-- `avancado/` — Comparação de performance e integração com Pandas
+- `introducao.ipynb` — Arrays, slicing e tipos de dados  
+- `operacoes_basicas.py` — Estatísticas e operações matemáticas  
+- `algebra_linear.ipynb` — Matrizes, determinantes e autovalores  
+- `casos_especiais/` — Broadcasting, ufuncs, views e cópias  
+- `avancado/` — Comparação de performance e integração com Pandas  
 
 ---
 
@@ -31,9 +31,9 @@ Computação numérica de alta performance.
 
 Criação de gráficos estáticos e interativos.
 
-- `introducao.ipynb` — Gráficos básicos: linha, barra, dispersão e histograma
-- `casos_especiais/` — Subplots complexos, anotações e interatividade
-- `avancado/` — Exportação otimizada e integração com Seaborn
+- `introducao.ipynb` — Gráficos básicos: linha, barra, dispersão e histograma  
+- `casos_especiais/` — Subplots complexos, anotações e interatividade com widgets  
+- `avancado/` — Exportação otimizada e integração com Seaborn  
 
 ---
 
@@ -41,15 +41,15 @@ Criação de gráficos estáticos e interativos.
 
 Visualizações estatísticas com estilo.
 
-- `introducao.ipynb` — Histogramas, KDE, pairplots e overview estatístico
-- `casos_especiais/` — Heatmaps, regressões e paletas personalizadas
-- `avancado/` — Customização com Matplotlib e construção de dashboards
+- `introducao.ipynb` — Histogramas, KDE, pairplots e overview estatístico  
+- `casos_especiais/` — Heatmaps, regressões e paletas personalizadas  
+- `avancado/` — Dashboards e customização avançada com Matplotlib  
 
 ---
 
 ## 🎯 Objetivo
 
-Este repositório serve como guia prático para quem deseja dominar as principais bibliotecas de análise de dados em Python, com foco em aplicações reais, clareza didática e profundidade técnica.
+Demonstrar domínio técnico nas bibliotecas fundamentais da ciência de dados com Python, aplicando boas práticas, organização modular e exemplos reais. Esta pasta serve como base para projetos mais robustos e como vitrine de habilidades para o mercado de trabalho.
 
 ---
 
@@ -57,10 +57,7 @@ Este repositório serve como guia prático para quem deseja dominar as principai
 
 - Python 3.8+
 - Jupyter Notebook
-- Bibliotecas: pandas, numpy, matplotlib, seaborn
+- Instalar dependências com:
 
----
-
-## 💡 Dica
-
-Explore cada pasta conforme seu nível de familiaridade. Os exemplos são independentes e podem ser adaptados para projetos próprios ou estudos acadêmicos.
+```bash
+pip install -r requirements.txt
