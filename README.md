@@ -55,4 +55,29 @@ python-data-science/
 - 🔗 [Documentação Oficial do Python](https://docs.python.org/3/)  
 - 🔗 [Cheat Sheet Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
+  ---
+
+## 🌐 Parte do Meu Portfólio
+
+Este repositório faz parte de um conjunto de estudos e projetos que abrangem:
+
+- [📊 Ciência de Dados](https://github.com/Marlon99henrique/portfolio-ciencia-de-dados.git)  
+- [🐍 Python - Jornada de Aprendizado](https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git)  
+
+🔗 Veja todos os meus projetos no meu perfil:  
+[Meu GitHub](https://github.com/Marlon99henrique)
+
+---
+
+## 📬 Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
+📧 Email: marlon.99henrique@gmail.com
+
+---
+
+## ⭐️ Contribuição
+
+Se este projeto te ajudou, considere dar uma estrela ⭐ no repositório! Isso me motiva a continuar compartilhando conteúdo de qualidade.
+
 
