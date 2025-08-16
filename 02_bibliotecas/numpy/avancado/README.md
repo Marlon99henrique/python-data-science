@@ -33,4 +33,4 @@ O objetivo é mostrar habilidades práticas para **análises de grandes volumes 
 ## ⚡ Observações
 
 - Todos os notebooks são comentados e estruturados para **facilitar leitura e entendimento**  
-- Complementa os notebooks de **fundamentos e casos especiais**, mostrando habilidades avançadas para projetos reais
+
