@@ -24,7 +24,7 @@ pandas/
 │   ├── tratamento/  
 │   │   ├── missing_values.ipynb  
 │   │   └── outliers.ipynb  
-│   │
+│   │  
 │   └── temporais/  
 │       ├── datetime_advanced.ipynb  
 │       └── resampling_financeiro.py  
