@@ -55,7 +55,7 @@ Explore cada módulo clicando nos links abaixo:
 ## 📚 Formação e Cursos
 
 🎓 **Graduação:**  
-Estudante do **3º semestre de Ciência de Dados** — com foco em estatística, programação, machine learning e visualização de dados.
+Estudante de **Ciência de Dados** (3º semestre)
 
 ## 📘 Cursos Complementares
 
@@ -85,8 +85,7 @@ Este repositório serve como **portfólio técnico**, demonstrando:
 ## 📬 Contato
 
 **Marlon Henrique**  
-🎓 Estudante de **Ciência de Dados** (3º semestre)  
-💻 Foco em **Python**, **Análise de Dados** e **Machine Learning**  
+ 
 📧 marlon.99henrique@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
 🌐 [GitHub](https://github.com/Marlon99henrique)
@@ -97,4 +96,5 @@ Este repositório serve como **portfólio técnico**, demonstrando:
 ## ⭐️ Contribuição
 
 Se este projeto te ajudou ou inspirou, considere deixar uma estrela ⭐ no repositório. Isso me motiva a continuar aprendendo e compartilhando conteúdo de qualidade.
+
 
