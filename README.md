@@ -53,26 +53,6 @@ Explore cada módulo clicando nos links abaixo:
 
 ---
 
-## 📦 Instalação de Dependências
-
-Este projeto utiliza diversas bibliotecas do ecossistema Python para Ciência de Dados, como:
-
-- `numpy`, `pandas`, `matplotlib`, `scikit-learn`  
-- `requests`, `beautifulsoup4`, `openpyxl`  
-- `pytest`, `SQLAlchemy`, `tkinter`, entre outras
-
-Para instalar todas as dependências de forma rápida e segura, utilize o arquivo `requirements.txt`:
-
-```bash
-# Crie e ative um ambiente virtual
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-
-# Instale os pacotes necessários
-pip install -r requirements.txt
----
-
 ## 📚 Formação e Cursos
 
 ### 🎓 Graduação  
@@ -118,4 +98,5 @@ Estudante de Ciência de Dados | Python | Machine Learning
 
 Se este repositório foi útil para você, considere deixar uma estrela ⭐.  
 Isso ajuda a fortalecer a comunidade e me motiva a continuar compartilhando projetos e aprendizados.
+
 
