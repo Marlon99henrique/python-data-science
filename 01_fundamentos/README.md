@@ -7,23 +7,25 @@ Esta pasta reúne os principais **fundamentos da linguagem Python**, com foco em
 
 ## 📚 Conteúdo Abordado
 
-- 🔢 **Tipos de Dados**  
+- [🔢 **Tipos de Dados**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/01_tipos_dados.ipynb)    
   Inteiros, floats, strings, booleanos e estruturas compostas (listas, tuplas, dicionários, conjuntos).
 
-- 🔁 **Estruturas de Controle**  
+- [🔁 **Estruturas de Controle**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/02_estruturas_controle.ipynb)    
   Condicionais (`if`, `elif`, `else`) e laços de repetição (`for`, `while`).
 
 - 🧮 **Operadores e Expressões**  
   Aritméticos, relacionais, lógicos e de atribuição.
 
-- 🧰 **Funções**  
+- [🧰 **Funções e Módulos**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/03_funcoes_modulos.ipynb)  
   Definição, parâmetros, retorno, escopo de variáveis e funções embutidas.
 
-- 📂 **Manipulação de Arquivos**  
+- [⚠️ **Tratamento de Erros**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/04_tratamento_erros.ipynb)  
+  Uso de `try`, `except`, `finally` e criação de exceções personalizadas.
+  
+- [📂 **Manipulação de Arquivos**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/05_manipulacao_arquivos.ipynb)  
   Leitura e escrita de arquivos `.txt`, `.csv`, e boas práticas com `with open()`.
 
-- ⚠️ **Tratamento de Erros**  
-  Uso de `try`, `except`, `finally` e criação de exceções personalizadas.
+
 
 ---
 
