@@ -1,86 +1,55 @@
-python-data-science/  
+python-data-science/
 │
-├── .gitignore              # Ignorar venv, __pycache__, dados temporários, etc.  
-├── README.md               # Descrição do repositório, objetivos e como usar.  
-├── requirements.txt        # Dependências do projeto (pandas, numpy, etc.).  
+├── .gitignore                   # Ignorar venv, __pycache__, dados temporários
+├── README.md                    # Explicação do repositório e como navegar
+├── requirements.txt             # Bibliotecas utilizadas (padrão + científicas)
 │
-├── fundamentos/            # Conceitos básicos e intermediários.  
-│   ├── tipos_estruturas.py  
-│   ├── funcoes_metodos.ipynb  
-│   └── tratamento_arquivos.py  
+├── fundamentos/                 # Fundamentos da linguagem Python
+│   ├── 01_tipos_dados.ipynb          # Int, float, str, bool, conversões
+│   ├── 02_estruturas_controle.ipynb  # if, for, while, break, continue
+│   ├── 03_funcoes_modulos.ipynb      # Definição, escopo, importações
+│   ├── 04_tratamento_erros.ipynb     # Try, except, raise, assert
+│   └── 05_manipulacao_arquivos.ipynb # Leitura/escrita de arquivos (CSV, TXT, JSON)
 │
-
-
-
-bibliotecas/
+├── orientacao_objetos/          # Programação orientada a objetos
+│   ├── 01_classes_basico.ipynb       # Classes, atributos, métodos
+│   ├── 02_heranca_encapsulamento.ipynb # Superclasse, private/public
+│   └── 03_exemplos_aplicados.ipynb  # Casos práticos com OOP
 │
-├── pandas/
-│   ├── introducao.ipynb              # Básico: DataFrames, filtros, tipos
-│   ├── analise_exploratoria.ipynb    # EDA prática com dataset real
-│   ├── casos_especiais/
-│   │   ├── combinando_dados.ipynb    # Merge, concat, join
-│   │   ├── series_temporais.py       # Trabalhando com datas e tempo
-│   │   └── missing_values.ipynb      # Tratamento de dados faltantes
-│   └── avancado/
-│       ├── performance_memoria.ipynb # Otimização, apply vs vectorization
-│       └── pipeline_limpeza.py       # Exemplo de fluxo de limpeza
+├── automacao_sistemas/          # Scripts e automações úteis
+│   ├── web_scraping.ipynb           # Coleta de dados com requests + BeautifulSoup
+│   ├── api_consumo.ipynb            # Requisições HTTP e tratamento de JSON
+│   ├── manipulacao_planilhas.ipynb  # OpenPyXL, pandas, exportação para Excel
+│   └── agendamentos_tarefas.ipynb   # Uso de sched, time, datetime
 │
-├── numpy/
-│   ├── introducao.ipynb              # Arrays, indexação, slicing, dtypes
-│   ├── operacoes_basicas.py          # Operações matemáticas e estatísticas
-│   ├── algebra_linear.ipynb          # Produto escalar, matrizes, determinante, autovalores
-│   ├── casos_especiais/
-│   │   ├── broadcasting.ipynb        # Operações entre arrays de dimensões diferentes
-│   │   ├── manipulacao_memoria.py    # Views, cópias e eficiência
-│   │   └── funcoes_avancadas.ipynb   # Ufuncs, vectorização e customização
-│   └── avancado/
-│       ├── performance_comparacao.ipynb # NumPy vs Python puro (loops, listas)
-│       └── integracao_pandas.ipynb      # Como NumPy serve de base para Pandas
+├── ciencia_computacional/       # Aplicações científicas e numéricas
+│   ├── numpy_basico.ipynb           # Arrays, slicing, operações matemáticas
+│   ├── numpy_avancado.ipynb         # Álgebra linear, autovalores, determinantes
+│   ├── matplotlib_basico.ipynb      # Gráficos simples: plot, scatter, hist
+│   └── simulacoes_numericas.ipynb   # Modelagem matemática e simulações
 │
-├── matplotlib/
-│   ├── introducao.ipynb               # Conceitos básicos: plot, scatter, bar, hist
-│   ├── casos_especiais/
-│   │   ├── multiplos_subplots.ipynb   # Layouts, gridspec e figuras complexas
-│   │   ├── anotacoes_legendas.ipynb   # Textos, setas, highlights
-│   │   └── graficos_interativos.ipynb # Widgets e interatividade básica
-│   └── avancado/
-│       ├── performance_exportacao.ipynb # Salvar imagens, SVG, PDF, otimizações
-│       └── integracao_seaborn.ipynb    # Como integrar plots Matplotlib e Seaborn
+├── boas_praticas/               # Código limpo e profissional
+│   ├── documentacao.md              # Docstrings, comentários, README
+│   ├── testes_unitarios.ipynb       # Pytest, unittest, exemplos de teste
+│   ├── virtualenv_setup.md          # Setup de ambiente isolado
+│   └── performance_codigo.md        # Vetorização, profiling, otimização
 │
-└── seaborn/
-    ├── introducao.ipynb                # Gráficos estatísticos básicos: hist, kde, pairplot
-    ├── casos_especiais/
-    │   ├── heatmaps_boxplots.ipynb     # Correlação, distribuição, comparações
-    │   ├── facetgrid_lmplot.ipynb      # Plots múltiplos e regressões
-    │   └── custom_palettes.ipynb       # Paletas de cores e estilo avançado
-    └── avancado/
-        ├── integracao_matplotlib.ipynb # Customização avançada usando Matplotlib
-        └── dashboards.ipynb            # Combinação de múltiplos plots para análise
-
-
-
-
-├── projetos/               # Projetos práticos (destaque para o portfólio!).  
-│   ├── analise_vendas/     # EDA com dataset de vendas.  
-│   │   ├── dados.csv  
-│   │   ├── exploracao.ipynb  
-│   │   └── relatorio.md  
-│   │
-│   ├── web_scraping/       # Coleta de dados de sites.  
-│   │   ├── script.py  
-│   │   └── output/         # Dados coletados.  
-│   │
-│   └── previsao_precos/    # Mini-projeto end-to-end.  
-│       ├── modelo.py  
-│       ├── treino.ipynb  
-│       └── dados/  
+├── projetos/                    # Projetos práticos
+│   ├── analise_dados_publicos/      # EDA em dataset real
+│   │   ├── analise.ipynb
+│   │   └── dados/
+│   ├── modelo_preditivo_basico/    # Exemplo de machine learning
+│   │   ├── modelo.ipynb
+│   │   └── dados/
+│   ├── simulador_fisico/           
+│   │   ├── modelo.py
+│   │   ├── visualizacao.ipynb
+│   │   └── dados/
+│   └── automacao_relatorios/       
+│       ├── relatorio.py
+│       └── templates/
 │
-├── boas_praticas/          # Tópicos para código profissional.  
-│   ├── documentacao.md     # Como escrever docstrings.  
-│   ├── virtualenv_setup.sh # Configuração de ambiente.  
-│   └── testes_pytest.py  
-│
-└── extras/                # Diferenciais para vagas.  
-    ├── sql_integration.py  # Conexão com SQLite/PostgreSQL.  
-    ├── api_consumo.ipynb   # Exemplo: requests + JSON.  
-    └── dicas_performance.md  
+└── recursos_adicionais/         # Complementos e diferenciais
+    ├── sql_integration.ipynb        # Conexão com SQLite/PostgreSQL
+    ├── tkinter_interface.ipynb      # Interface gráfica simples
+    └── dicas_entrevista.md          # Perguntas comuns e boas respostas
