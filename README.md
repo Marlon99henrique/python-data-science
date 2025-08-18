@@ -57,15 +57,18 @@ Explore cada módulo clicando nos links abaixo:
 🎓 **Graduação:**  
 Estudante do **3º semestre de Ciência de Dados** — com foco em estatística, programação, machine learning e visualização de dados.
 
-📘 **Cursos complementares em Python:**  
-- [Programação Python do Básico ao Avançado](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=bo&src=sac&couponCode=KEEPLEARNINGBR)  
-  Curso completo abordando desde os fundamentos até tópicos avançados como manipulação de arquivos, orientação a objetos, tratamento de erros e automações.
+## 📘 Cursos Complementares
 
-- [Python para Engenheiros e Cientistas](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/)  
-  Aplicações científicas com NumPy, Matplotlib, simulações e resolução de problemas técnicos.
+- **[Curso Cientista de Dados — Udemy](https://www.udemy.com/course/cientista-de-dados/)**  
+  Formação prática em **Ciência de Dados**, com foco em análise exploratória, manipulação de dados com **Pandas**, criação de modelos preditivos usando **Scikit-learn** e desenvolvimento de **projetos aplicados**.
 
-- [Cientista de Dados](https://www.udemy.com/course/cientista-de-dados/)  
-  Introdução prática à Ciência de Dados com Pandas, Scikit-learn e projetos aplicados.
+- **[Curso Programação Python do Básico ao Avançado — Udemy](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=bo&src=sac&couponCode=KEEPLEARNINGBR)**  
+  Aprendizado completo da linguagem **Python**, desde fundamentos até **orientação a objetos, manipulação de arquivos, tratamento de erros e automações**. Inclui práticas aplicadas ao desenvolvimento de scripts e projetos reais.
+
+- **[Curso Python para Engenheiros e Cientistas — Udemy](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/)**  
+  Aplicações de **Python em problemas técnicos e científicos**, com ênfase em **NumPy, Matplotlib, simulações numéricas e modelagem matemática**, voltado para engenheiros, cientistas e analistas de dados.
+
+
 
 ---
 
@@ -81,13 +84,17 @@ Este repositório serve como **portfólio técnico**, demonstrando:
 
 ## 📬 Contato
 
-[**Marlon Henrique**](https://github.com/Marlon99henrique)  
-Estudante de Ciência de Dados | Python | Machine Learning  
+**Marlon Henrique**  
+🎓 Estudante de **Ciência de Dados** (3º semestre)  
+💻 Foco em **Python**, **Análise de Dados** e **Machine Learning**  
 📧 marlon.99henrique@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)
+🔗 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
+🌐 [GitHub](https://github.com/Marlon99henrique)
+
 
 ---
 
 ## ⭐️ Contribuição
 
 Se este projeto te ajudou ou inspirou, considere deixar uma estrela ⭐ no repositório. Isso me motiva a continuar aprendendo e compartilhando conteúdo de qualidade.
+
