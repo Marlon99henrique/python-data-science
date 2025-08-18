@@ -9,25 +9,25 @@ Este repositório apresenta meus estudos e projetos em **Python aplicado à Ciê
 
 Explore cada módulo clicando nos links abaixo:
 
-- [`fundamentos/`](fundamentos/)  
+- [`fundamentos/`](https://github.com/Marlon99henrique/python-data-science/tree/main/01_fundamentos)  
   Bases de Python: tipos de dados, estruturas de controle, funções e manipulação de arquivos.
 
-- [`orientacao_objetos/`](orientacao_objetos/)  
+- [`orientacao_objetos/`](https://github.com/Marlon99henrique/python-data-science/tree/main/02_orientacao_objetos)  
   Programação orientada a objetos aplicada a problemas práticos e organização de código.
 
-- [`automacao_sistemas/`](automacao_sistemas/)  
+- [`automacao_sistemas/`](https://github.com/Marlon99henrique/python-data-science/tree/main/03_automacao_sistemas)  
   Automação de tarefas com web scraping, APIs, planilhas e integração com sistemas.
 
-- [`ciencia_computacional/`](ciencia_computacional/)  
+- [`ciencia_computacional/`](https://github.com/Marlon99henrique/python-data-science/tree/main/04_ciencia_computacional)  
   Aplicações científicas: NumPy, visualizações com Matplotlib e simulações numéricas.
 
-- [`boas_praticas/`](boas_praticas/)  
+- [`boas_praticas/`](https://github.com/Marlon99henrique/python-data-science/tree/main/05_boas_praticas)  
   Testes, documentação, ambientes virtuais e técnicas de otimização.
 
-- [`projetos/`](projetos/)  
+- [`projetos/`](https://github.com/Marlon99henrique/python-data-science/tree/main/06_projetos)  
   Projetos práticos que consolidam os conhecimentos em cenários reais.
 
-- [`recursos_adicionais/`](recursos_adicionais/)  
+- [`recursos_adicionais/`](https://github.com/Marlon99henrique/python-data-science/tree/main/07_recursos_adicionais)  
   SQL, interfaces gráficas (GUI) e dicas extras.
 
 ---
@@ -98,5 +98,6 @@ Estudante de Ciência de Dados | Python | Machine Learning
 
 Se este repositório foi útil para você, considere deixar uma estrela ⭐.  
 Isso ajuda a fortalecer a comunidade e me motiva a continuar compartilhando projetos e aprendizados.
+
 
 
