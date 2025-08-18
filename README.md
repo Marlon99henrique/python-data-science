@@ -2,23 +2,32 @@
 
 Este repositório reúne meus estudos e projetos em **Python aplicado à Ciência de Dados**, com foco em boas práticas de programação, automação de tarefas, uso de bibliotecas científicas e desenvolvimento de soluções reais.
 
-> 📚 Baseado nos cursos:
-> - [Python para Engenheiros e Cientistas](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/)
-> - [Cientista de Dados](https://www.udemy.com/course/cientista-de-dados/)
-
 ---
 
 ## 📁 Estrutura do Repositório
 
-| Pasta                    | Conteúdo                                                                 |
-|-------------------------|--------------------------------------------------------------------------|
-| `fundamentos/`          | Tipos de dados, estruturas de controle, funções, arquivos e erros        |
-| `orientacao_objetos/`   | Programação orientada a objetos com exemplos aplicados                   |
-| `automacao_sistemas/`   | Web scraping, consumo de APIs, manipulação de planilhas e agendamentos   |
-| `ciencia_computacional/`| NumPy, álgebra linear, visualizações com Matplotlib e simulações         |
-| `boas_praticas/`        | Testes unitários, documentação, ambientes virtuais e otimização de código|
-| `projetos/`             | Projetos práticos aplicando os conhecimentos adquiridos                  |
-| `recursos_adicionais/`  | Integração com SQL, interfaces gráficas e dicas para entrevistas          |
+Explore cada módulo clicando nos links abaixo:
+
+- [`fundamentos/`](fundamentos/)  
+  Conceitos essenciais de Python: tipos de dados, estruturas de controle, funções, manipulação de arquivos e tratamento de erros.
+
+- [`orientacao_objetos/`](orientacao_objetos/)  
+  Programação orientada a objetos aplicada à resolução de problemas e organização de código.
+
+- [`automacao_sistemas/`](automacao_sistemas/)  
+  Automação com web scraping, consumo de APIs, manipulação de planilhas e integração com sistemas.
+
+- [`ciencia_computacional/`](ciencia_computacional/)  
+  Aplicações científicas com NumPy, visualizações com Matplotlib e simulações computacionais.
+
+- [`boas_praticas/`](boas_praticas/)  
+  Testes unitários, documentação, ambientes virtuais e técnicas de otimização de código.
+
+- [`projetos/`](projetos/)  
+  Projetos práticos que aplicam os conhecimentos adquiridos em contextos reais.
+
+- [`recursos_adicionais/`](recursos_adicionais/)  
+  Integração com SQL, criação de interfaces gráficas (GUI) e dicas extras para o dia a dia.
 
 ---
 
@@ -43,6 +52,23 @@ Este repositório reúne meus estudos e projetos em **Python aplicado à Ciênci
 
 ---
 
+## 📚 Formação e Cursos
+
+🎓 **Graduação:**  
+Estudante do **3º semestre de Ciência de Dados** — com foco em estatística, programação, machine learning e visualização de dados.
+
+📘 **Cursos complementares em Python:**  
+- [Programação Python do Básico ao Avançado](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=bo&src=sac&couponCode=KEEPLEARNINGBR)  
+  Curso completo abordando desde os fundamentos até tópicos avançados como manipulação de arquivos, orientação a objetos, tratamento de erros e automações.
+
+- [Python para Engenheiros e Cientistas](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/)  
+  Aplicações científicas com NumPy, Matplotlib, simulações e resolução de problemas técnicos.
+
+- [Cientista de Dados](https://www.udemy.com/course/cientista-de-dados/)  
+  Introdução prática à Ciência de Dados com Pandas, Scikit-learn e projetos aplicados.
+
+---
+
 ## 🎯 Objetivo
 
 Este repositório serve como **portfólio técnico**, demonstrando:
@@ -53,7 +79,7 @@ Este repositório serve como **portfólio técnico**, demonstrando:
 
 ---
 
-## 👨‍💻 Autor
+## 📬 Contato
 
 [**Marlon Henrique**](https://github.com/Marlon99henrique)  
 Estudante de Ciência de Dados | Python | Machine Learning  
