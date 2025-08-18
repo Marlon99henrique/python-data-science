@@ -2,6 +2,9 @@
 
 Este repositório reúne meus estudos e projetos em **Python aplicado à Ciência de Dados**, com foco em boas práticas de programação, automação de tarefas, uso de bibliotecas científicas e desenvolvimento de soluções reais.
 
+> 📚 Baseado nos cursos:
+> - [Python para Engenheiros e Cientistas](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/)
+> - [Cientista de Dados](https://www.udemy.com/course/cientista-de-dados/)
 
 ---
 
@@ -62,4 +65,3 @@ Estudante de Ciência de Dados | Python | Machine Learning
 ## ⭐️ Contribuição
 
 Se este projeto te ajudou ou inspirou, considere deixar uma estrela ⭐ no repositório. Isso me motiva a continuar aprendendo e compartilhando conteúdo de qualidade.
-
