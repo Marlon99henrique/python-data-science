@@ -84,8 +84,7 @@ Este repositório serve como **portfólio técnico**, demonstrando:
 ## 📬 Contato
 
 **Marlon Henrique**  
-🎓 Estudante de **Ciência de Dados** (3º semestre)  
-💻 Foco em **Python**, **Análise de Dados** e **Machine Learning**  
+Estudante de Ciência de Dados | Python | Machine Learning  
 
 📧 marlon.99henrique@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
@@ -99,3 +98,4 @@ Este repositório serve como **portfólio técnico**, demonstrando:
 
 Se este repositório foi útil para você, considere deixar uma estrela ⭐.  
 Isso ajuda a fortalecer a comunidade e me motiva a continuar compartilhando projetos e aprendizados.
+
